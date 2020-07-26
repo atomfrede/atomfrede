@@ -8,9 +8,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (today)
 - [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (2 days ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (6 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 month ago)
 - [jhipster/jhipster](https://github.com/jhipster/jhipster) - JHipster BOM and server-side library (1 month ago)
 - [hipster-labs/github-dashboard](https://github.com/hipster-labs/github-dashboard) - Dashboard to visualize issues and PRs across all JHipster repositories (1 month ago)
 
