@@ -8,14 +8,15 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 day ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 days ago)
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (3 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (5 days ago)
 - [jhipster/jhipster-fisher-plugin](https://github.com/jhipster/jhipster-fisher-plugin) - A fisher plug-in for JHipster (2 weeks ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 weeks ago)
 - [jhipster/jhipster](https://github.com/jhipster/jhipster) - JHipster BOM and server-side library (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jhipster/jhipster-online](https://github.com/jhipster/jhipster-online) ([v2.6.5](https://github.com/jhipster/jhipster-online/releases/tag/v2.6.5), 2 days ago) - JHipster Online lets you generate your JHipster projects through a user-friendly web interface. 
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.0-rc1](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.0-rc1), 3 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v6.10.1](https://github.com/jhipster/generator-jhipster/releases/tag/v6.10.1), 1 month ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
 - [neo4j/sdn-rx](https://github.com/neo4j/sdn-rx) ([1.1.1](https://github.com/neo4j/sdn-rx/releases/tag/1.1.1), 1 month ago) - Nextgen Spring Data module for Neo4j supporting (not only) reactive data access and immutable support
@@ -27,7 +28,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (1 year ago)
 - [Using Greenmail to enhance JHipster Integration Tests](https://atomfrede.gitlab.io/2019/06/using-greenmail-to-enhance-jhipster-integration-tests/) (1 year ago)
 - [JHipster With Testcontainers](https://atomfrede.gitlab.io/2019/05/jhipster-with-testcontainers/) (1 year ago)
-- [Getting Hip with JHipster in the Java Aktuell Magazine](https://atomfrede.gitlab.io/2019/02/getting-hip-with-jhipster-in-the-java-aktuell-magazine/) (1 year ago)
+- [Getting Hip with JHipster in the Java Aktuell Magazine](https://atomfrede.gitlab.io/2019/02/getting-hip-with-jhipster-in-the-java-aktuell-magazine/) (2 years ago)
 
 #### 📜 JUG Paderborn's recent blog posts
 
