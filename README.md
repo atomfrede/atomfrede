@@ -8,15 +8,15 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 day ago)
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 week ago)
-- [jhipster/jhipster-fisher-plugin](https://github.com/jhipster/jhipster-fisher-plugin) - A fisher plug-in for JHipster (1 week ago)
-- [atomfrede/jhipster-jooq-addon-sample](https://github.com/atomfrede/jhipster-jooq-addon-sample) - https://github.com/jhipster/generator-jhipster/issues/9486 (1 week ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 day ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 days ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (4 days ago)
+- [jhipster/jhipster-fisher-plugin](https://github.com/jhipster/jhipster-fisher-plugin) - A fisher plug-in for JHipster (4 days ago)
+- [atomfrede/jhipster-jooq-addon-sample](https://github.com/atomfrede/jhipster-jooq-addon-sample) - https://github.com/jhipster/generator-jhipster/issues/9486 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-online](https://github.com/jhipster/jhipster-online) ([v2.6.9](https://github.com/jhipster/jhipster-online/releases/tag/v2.6.9), 3 days ago) - JHipster Online lets you generate your JHipster projects through a user-friendly web interface. 
+- [jhipster/jhipster-online](https://github.com/jhipster/jhipster-online) ([v2.7.1](https://github.com/jhipster/jhipster-online/releases/tag/v2.7.1), 1 day ago) - JHipster Online lets you generate your JHipster projects through a user-friendly web interface. 
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.0-rc1](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.0-rc1), 1 month ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v6.10.1](https://github.com/jhipster/generator-jhipster/releases/tag/v6.10.1), 2 months ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
 - [neo4j/sdn-rx](https://github.com/neo4j/sdn-rx) ([1.1.1](https://github.com/neo4j/sdn-rx/releases/tag/1.1.1), 2 months ago) - Nextgen Spring Data module for Neo4j supporting (not only) reactive data access and immutable support
@@ -32,7 +32,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (5 months ago)
+- [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (6 months ago)
 - [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (6 months ago)
 - [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (6 months ago)
 
