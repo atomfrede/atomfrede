@@ -8,18 +8,18 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (5 days ago)
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 week ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 weeks ago)
-- [jhipster/jhipster-fisher-plugin](https://github.com/jhipster/jhipster-fisher-plugin) - A fisher plug-in for JHipster (2 weeks ago)
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (6 days ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 weeks ago)
+- [jhipster/jhipster-fisher-plugin](https://github.com/jhipster/jhipster-fisher-plugin) - A fisher plug-in for JHipster (3 weeks ago)
 - [atomfrede/jhipster-jooq-addon-sample](https://github.com/atomfrede/jhipster-jooq-addon-sample) - https://github.com/jhipster/generator-jhipster/issues/9486 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-online](https://github.com/jhipster/jhipster-online) ([v2.7.2](https://github.com/jhipster/jhipster-online/releases/tag/v2.7.2), 5 days ago) - JHipster Online lets you generate your JHipster projects through a user-friendly web interface. 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v6.10.3](https://github.com/jhipster/generator-jhipster/releases/tag/v6.10.3), 5 days ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
+- [jhipster/jhipster-online](https://github.com/jhipster/jhipster-online) ([v2.7.2](https://github.com/jhipster/jhipster-online/releases/tag/v2.7.2), 1 week ago) - JHipster Online lets you generate your JHipster projects through a user-friendly web interface. 
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v6.10.3](https://github.com/jhipster/generator-jhipster/releases/tag/v6.10.3), 1 week ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
 - [neo4j/sdn-rx](https://github.com/neo4j/sdn-rx) ([1.1.1](https://github.com/neo4j/sdn-rx/releases/tag/1.1.1), 3 months ago) - Nextgen Spring Data module for Neo4j supporting (not only) reactive data access and immutable support
-- [jhipster/jhipster-core](https://github.com/jhipster/jhipster-core) ([v7.3.2](https://github.com/jhipster/jhipster-core/releases/tag/v7.3.2), 3 months ago) - JHipster Domain Language, used by JHipster UML and JDL-Studio to generate entities
+- [jhipster/jhipster-core](https://github.com/jhipster/jhipster-core) ([v7.3.2](https://github.com/jhipster/jhipster-core/releases/tag/v7.3.2), 4 months ago) - JHipster Domain Language, used by JHipster UML and JDL-Studio to generate entities
 
 #### 📜 My recent blog posts
 
