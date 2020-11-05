@@ -8,11 +8,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/whats-new-in-jhipster-7-jcon2020](https://github.com/atomfrede/whats-new-in-jhipster-7-jcon2020) - Slides for my talk `What&#39;s new in JHipster 7` at JCON 2020 (4 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 week ago)
-- [hipster-labs/github-dashboard](https://github.com/hipster-labs/github-dashboard) - Dashboard to visualize issues and PRs across all JHipster repositories (2 weeks ago)
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 weeks ago)
+- [atomfrede/whats-new-in-jhipster-7-jcon2020](https://github.com/atomfrede/whats-new-in-jhipster-7-jcon2020) - Slides for my talk `What&#39;s new in JHipster 7` at JCON 2020 (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (2 weeks ago)
+- [hipster-labs/github-dashboard](https://github.com/hipster-labs/github-dashboard) - Dashboard to visualize issues and PRs across all JHipster repositories (3 weeks ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
