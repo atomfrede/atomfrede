@@ -8,9 +8,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (5 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (5 days ago)
-- [atomfrede/whats-new-in-jhipster-7-jcon2020](https://github.com/atomfrede/whats-new-in-jhipster-7-jcon2020) - Slides for my talk `What&#39;s new in JHipster 7` at JCON 2020 (2 weeks ago)
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
+- [atomfrede/whats-new-in-jhipster-7-jcon2020](https://github.com/atomfrede/whats-new-in-jhipster-7-jcon2020) - Slides for my talk `What&#39;s new in JHipster 7` at JCON 2020 (3 weeks ago)
 - [hipster-labs/github-dashboard](https://github.com/hipster-labs/github-dashboard) - Dashboard to visualize issues and PRs across all JHipster repositories (1 month ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
 
@@ -32,7 +32,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (8 months ago)
 - [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (8 months ago)
-- [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (8 months ago)
+- [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (9 months ago)
 
 #### 👯 I’m looking to collaborate on
 
