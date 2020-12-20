@@ -32,7 +32,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (9 months ago)
 - [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (9 months ago)
-- [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (9 months ago)
+- [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (10 months ago)
 
 #### 👯 I’m looking to collaborate on
 
