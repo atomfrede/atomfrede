@@ -8,8 +8,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
 - [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 month ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 month ago)
 - [atomfrede/whats-new-in-jhipster-7-jcon2020](https://github.com/atomfrede/whats-new-in-jhipster-7-jcon2020) - Slides for my talk `What&#39;s new in JHipster 7` at JCON 2020 (1 month ago)
 - [hipster-labs/github-dashboard](https://github.com/hipster-labs/github-dashboard) - Dashboard to visualize issues and PRs across all JHipster repositories (2 months ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 months ago)
@@ -17,7 +17,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 🔭 Latest releases I've contributed to
 
 - [jhipster/jhipster-kotlin](https://github.com/jhipster/jhipster-kotlin) ([1.11.0](https://github.com/jhipster/jhipster-kotlin/releases/tag/1.11.0), 1 month ago) - Kotlin based JHipster
-- [neo4j/sdn-rx](https://github.com/neo4j/sdn-rx) ([1.1.1](https://github.com/neo4j/sdn-rx/releases/tag/1.1.1), 5 months ago) - Nextgen Spring Data module for Neo4j supporting (not only) reactive data access and immutable support
+- [neo4j/sdn-rx](https://github.com/neo4j/sdn-rx) ([1.1.1](https://github.com/neo4j/sdn-rx/releases/tag/1.1.1), 6 months ago) - Nextgen Spring Data module for Neo4j supporting (not only) reactive data access and immutable support
 - [jhipster/jhipster-core](https://github.com/jhipster/jhipster-core) ([v7.3.2](https://github.com/jhipster/jhipster-core/releases/tag/v7.3.2), 6 months ago) - JHipster Domain Language, used by JHipster UML and JDL-Studio to generate entities
 
 #### 📜 My recent blog posts
@@ -31,7 +31,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 📜 JUG Paderborn's recent blog posts
 
 - [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (9 months ago)
-- [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (9 months ago)
+- [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (10 months ago)
 - [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (10 months ago)
 
 #### 👯 I’m looking to collaborate on
