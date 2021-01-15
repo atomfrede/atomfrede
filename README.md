@@ -8,16 +8,15 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 days ago)
-- [hipster-labs/jhipster-daily-builds](https://github.com/hipster-labs/jhipster-daily-builds) - :construction_worker: :rocket: Additional builds for generator-jhipster repository (4 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
+- [hipster-labs/jhipster-daily-builds](https://github.com/hipster-labs/jhipster-daily-builds) - :construction_worker: :rocket: Additional builds for generator-jhipster repository (1 week ago)
 - [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (2 months ago)
 - [atomfrede/whats-new-in-jhipster-7-jcon2020](https://github.com/atomfrede/whats-new-in-jhipster-7-jcon2020) - Slides for my talk `What&#39;s new in JHipster 7` at JCON 2020 (2 months ago)
-- [hipster-labs/github-dashboard](https://github.com/hipster-labs/github-dashboard) - Dashboard to visualize issues and PRs across all JHipster repositories (2 months ago)
+- [hipster-labs/github-dashboard](https://github.com/hipster-labs/github-dashboard) - Dashboard to visualize issues and PRs across all JHipster repositories (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [jhipster/jhipster-kotlin](https://github.com/jhipster/jhipster-kotlin) ([1.11.0](https://github.com/jhipster/jhipster-kotlin/releases/tag/1.11.0), 2 months ago) - Kotlin based JHipster
-- [neo4j/sdn-rx](https://github.com/neo4j/sdn-rx) ([1.1.1](https://github.com/neo4j/sdn-rx/releases/tag/1.1.1), 6 months ago) - Nextgen Spring Data module for Neo4j supporting (not only) reactive data access and immutable support
 
 #### 📜 My recent blog posts
 
