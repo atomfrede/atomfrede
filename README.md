@@ -8,11 +8,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
+- [jhipster/jhipster-fisher-plugin](https://github.com/jhipster/jhipster-fisher-plugin) - A fisher plug-in for JHipster (1 day ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
 - [hipster-labs/jhipster-daily-builds](https://github.com/hipster-labs/jhipster-daily-builds) - :construction_worker: :rocket: Additional builds for generator-jhipster repository (2 weeks ago)
 - [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (2 months ago)
-- [atomfrede/whats-new-in-jhipster-7-jcon2020](https://github.com/atomfrede/whats-new-in-jhipster-7-jcon2020) - Slides for my talk `What&#39;s new in JHipster 7` at JCON 2020 (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -29,7 +29,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 📜 JUG Paderborn's recent blog posts
 
 - [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (10 months ago)
-- [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (10 months ago)
+- [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (11 months ago)
 - [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (11 months ago)
 
 #### 👯 I’m looking to collaborate on
