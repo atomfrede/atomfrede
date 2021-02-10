@@ -8,17 +8,17 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
-- [atomfrede/jhipster-playwright-ts-example](https://github.com/atomfrede/jhipster-playwright-ts-example) -  (6 days ago)
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (6 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (6 days ago)
+- [atomfrede/jhipster-playwright-ts-example](https://github.com/atomfrede/jhipster-playwright-ts-example) -  (1 week ago)
 - [atomfrede/generator-jhipster-playwright](https://github.com/atomfrede/generator-jhipster-playwright) - Blueprint to support Playwright as end-2-end testing framework (1 week ago)
-- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) - Testcontainers module for running Cypress tests (1 week ago)
-- [jhipster/jhipster-fisher-plugin](https://github.com/jhipster/jhipster-fisher-plugin) - A fisher plug-in for JHipster (1 week ago)
+- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) - Testcontainers module for running Cypress tests (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v0.8.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v0.8.0), 1 week ago) - 
 - [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.2.1](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.2.1), 1 month ago) - Testcontainers module for running Cypress tests
-- [jhipster/jhipster-kotlin](https://github.com/jhipster/jhipster-kotlin) ([1.11.0](https://github.com/jhipster/jhipster-kotlin/releases/tag/1.11.0), 2 months ago) - Kotlin based JHipster
+- [jhipster/jhipster-kotlin](https://github.com/jhipster/jhipster-kotlin) ([1.11.0](https://github.com/jhipster/jhipster-kotlin/releases/tag/1.11.0), 3 months ago) - Kotlin based JHipster
 
 #### 📜 My recent blog posts
 
