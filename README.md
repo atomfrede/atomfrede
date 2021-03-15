@@ -8,10 +8,10 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/neo4j-jhipster-sample-13797](https://github.com/atomfrede/neo4j-jhipster-sample-13797) - https://github.com/jhipster/generator-jhipster/issues/13797 (1 day ago)
-- [hipster-labs/jhipster-daily-builds](https://github.com/hipster-labs/jhipster-daily-builds) - :construction_worker: :rocket: Additional builds for generator-jhipster repository (2 days ago)
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (3 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (5 days ago)
+- [atomfrede/neo4j-jhipster-sample-13797](https://github.com/atomfrede/neo4j-jhipster-sample-13797) - https://github.com/jhipster/generator-jhipster/issues/13797 (6 days ago)
+- [hipster-labs/jhipster-daily-builds](https://github.com/hipster-labs/jhipster-daily-builds) - :construction_worker: :rocket: Additional builds for generator-jhipster repository (1 week ago)
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 week ago)
 - [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -21,11 +21,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 My recent blog posts
 
+- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2020/03/creating-a-jhipster-playwright-blueprint-part-1/) (1 year ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (1 year ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (2 years ago)
 - [Using Greenmail to enhance JHipster Integration Tests](https://atomfrede.gitlab.io/2019/06/using-greenmail-to-enhance-jhipster-integration-tests/) (2 years ago)
 - [JHipster With Testcontainers](https://atomfrede.gitlab.io/2019/05/jhipster-with-testcontainers/) (2 years ago)
-- [Getting Hip with JHipster in the Java Aktuell Magazine](https://atomfrede.gitlab.io/2019/02/getting-hip-with-jhipster-in-the-java-aktuell-magazine/) (2 years ago)
 
 #### 📜 JUG Paderborn's recent blog posts
 
