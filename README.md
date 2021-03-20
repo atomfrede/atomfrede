@@ -8,20 +8,20 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (5 days ago)
-- [atomfrede/neo4j-jhipster-sample-13797](https://github.com/atomfrede/neo4j-jhipster-sample-13797) - https://github.com/jhipster/generator-jhipster/issues/13797 (6 days ago)
-- [hipster-labs/jhipster-daily-builds](https://github.com/hipster-labs/jhipster-daily-builds) - :construction_worker: :rocket: Additional builds for generator-jhipster repository (1 week ago)
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 week ago)
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (1 month ago)
+- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) - Testcontainers module for running Cypress tests (2 days ago)
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (3 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
+- [jhipster/jdl-samples](https://github.com/jhipster/jdl-samples) - Sample JDL files (4 days ago)
+- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.2.1](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.2.1), 2 months ago) - Testcontainers module for running Cypress tests
+- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.3.0](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.3.0), 2 days ago) - Testcontainers module for running Cypress tests
 - [jhipster/jhipster-kotlin](https://github.com/jhipster/jhipster-kotlin) ([1.11.0](https://github.com/jhipster/jhipster-kotlin/releases/tag/1.11.0), 4 months ago) - Kotlin based JHipster
 
 #### 📜 My recent blog posts
 
-- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2020/03/creating-a-jhipster-playwright-blueprint-part-1/) (1 year ago)
+- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (1 week ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (1 year ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (2 years ago)
 - [Using Greenmail to enhance JHipster Integration Tests](https://atomfrede.gitlab.io/2019/06/using-greenmail-to-enhance-jhipster-integration-tests/) (2 years ago)
