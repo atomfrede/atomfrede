@@ -8,21 +8,21 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/jhipster-cypress-audit](https://github.com/atomfrede/jhipster-cypress-audit) - Sample code for  (3 days ago)
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 week ago)
-- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (1 week ago)
-- [atomfrede/jhipster-playwright-blog-sample](https://github.com/atomfrede/jhipster-playwright-blog-sample) - Repository for example projects for https://atomfrede.gitlab.io/2020/03/creating-a-jhipster-playwright-blueprint-part-1/ (2 weeks ago)
-- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) - Testcontainers module for running Cypress tests (4 weeks ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (6 days ago)
+- [atomfrede/jhipster-cypress-audit](https://github.com/atomfrede/jhipster-cypress-audit) - Sample code for https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/ (1 week ago)
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (2 weeks ago)
+- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.3.0](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.3.0), 4 weeks ago) - Testcontainers module for running Cypress tests
+- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.3.0](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.3.0), 1 month ago) - Testcontainers module for running Cypress tests
 - [jhipster/jhipster-kotlin](https://github.com/jhipster/jhipster-kotlin) ([1.11.0](https://github.com/jhipster/jhipster-kotlin/releases/tag/1.11.0), 5 months ago) - Kotlin based JHipster
 
 #### 📜 My recent blog posts
 
-- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (4 days ago)
-- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (3 weeks ago)
+- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (1 week ago)
+- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (1 month ago)
 - [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (1 month ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (1 year ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (2 years ago)
