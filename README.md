@@ -8,20 +8,20 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (6 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (6 days ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 week ago)
 - [atomfrede/jhipster-cypress-audit](https://github.com/atomfrede/jhipster-cypress-audit) - Sample code for https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/ (1 week ago)
 - [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (2 weeks ago)
 - [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jhipster/jhipster-kotlin](https://github.com/jhipster/jhipster-kotlin) ([1.12.0](https://github.com/jhipster/jhipster-kotlin/releases/tag/1.12.0), 5 days ago) - Kotlin based JHipster
 - [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.3.0](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.3.0), 1 month ago) - Testcontainers module for running Cypress tests
-- [jhipster/jhipster-kotlin](https://github.com/jhipster/jhipster-kotlin) ([1.11.0](https://github.com/jhipster/jhipster-kotlin/releases/tag/1.11.0), 5 months ago) - Kotlin based JHipster
 
 #### 📜 My recent blog posts
 
-- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (1 week ago)
+- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (2 weeks ago)
 - [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (1 month ago)
 - [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (1 month ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (1 year ago)
