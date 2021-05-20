@@ -35,7 +35,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👯 I’m looking to collaborate on
 
 - [Microfrontends with JHipster](https://github.com/jhipster/generator-jhipster/issues/10189)
-- [JHipster 7](https://github.com/jhipster/generator-jhipster/issues/10958)
+- [JHipster 7 for Micronaut](https://github.com/jhipster/generator-jhipster-micronaut/issues/250)
 
 #### 📫 How to reach me
 
