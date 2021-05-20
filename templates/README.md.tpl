@@ -11,6 +11,16 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+{{range recentPullRequests 5}}
+Title: {{.Title}}
+URL: {{.URL}}
+State: {{.State}}
+CreatedAt: {{humanize .CreatedAt}}
+Repository name: {{.Repo.Name}}
+Repository description: {{.Repo.Description}}
+Repository URL: {{.Repo.URL}}
+{{end}}
+
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
