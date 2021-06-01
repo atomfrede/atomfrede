@@ -8,11 +8,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (2 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (5 days ago)
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (6 days ago)
-- [atomfrede/jh-14814-sample](https://github.com/atomfrede/jh-14814-sample) -  (1 week ago)
-- [oci-labs/mhipster-webinar-demos](https://github.com/oci-labs/mhipster-webinar-demos) - Demo Applications from the MHipster Webinar on May 7th, 2021 (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
+- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (2 weeks ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 weeks ago)
+- [atomfrede/jh-14814-sample](https://github.com/atomfrede/jh-14814-sample) -  (3 weeks ago)
+- [oci-labs/mhipster-webinar-demos](https://github.com/oci-labs/mhipster-webinar-demos) - Demo Applications from the MHipster Webinar on May 7th, 2021 (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
