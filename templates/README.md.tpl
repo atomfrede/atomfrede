@@ -16,13 +16,15 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### ⭐ Recently starred
-{{range recentStars 5}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}})
-Stars: {{.Stargazers}}
-{{end}}
+{{range recentPullRequests 5}}
+Title: {{.Title}}
+URL: {{.URL}}
+State: {{.State}}
+CreatedAt: {{humanize .CreatedAt}}
+Repository name: {{.Repo.Name}}
+Repository description: {{.Repo.Description}}
+Repository URL: {{.Repo.URL}}
+{{- end}}
 
 #### 📜 My recent blog posts
 {{range rss "https://atomfrede.gitlab.io/index.xml" 5}}
