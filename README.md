@@ -18,42 +18,13 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.3.0](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.3.0), 2 months ago) - Testcontainers module for running Cypress tests
 
+#### 🔨 Latest Pull Requests I published
 
-Title: refine release drafter categories
-URL: https://github.com/jhipster/generator-jhipster/pull/15149
-State: MERGED
-CreatedAt: 6 days ago
-Repository name: jhipster/generator-jhipster
-Repository description: JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
-Repository URL: https://github.com/jhipster/generator-jhipster
-Title: cache frontend application files
-URL: https://github.com/jhipster/generator-jhipster/pull/15148
-State: MERGED
-CreatedAt: 6 days ago
-Repository name: jhipster/generator-jhipster
-Repository description: JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
-Repository URL: https://github.com/jhipster/generator-jhipster
-Title: categorize changes in release drafter config
-URL: https://github.com/jhipster/generator-jhipster/pull/15060
-State: MERGED
-CreatedAt: 2 weeks ago
-Repository name: jhipster/generator-jhipster
-Repository description: JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
-Repository URL: https://github.com/jhipster/generator-jhipster
-Title: supress noisy logs on startup in dev profile
-URL: https://github.com/jhipster/generator-jhipster/pull/15004
-State: MERGED
-CreatedAt: 2 weeks ago
-Repository name: jhipster/generator-jhipster
-Repository description: JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
-Repository URL: https://github.com/jhipster/generator-jhipster
-Title: add talk at JUG Bonn
-URL: https://github.com/jhipster/jhipster.github.io/pull/1124
-State: MERGED
-CreatedAt: 3 weeks ago
-Repository name: jhipster/jhipster.github.io
-Repository description: Public website for JHipster - generates https://www.jhipster.tech
-Repository URL: https://github.com/jhipster/jhipster.github.io
+- [refine release drafter categories](https://github.com/jhipster/generator-jhipster/pull/15149) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago)
+- [cache frontend application files](https://github.com/jhipster/generator-jhipster/pull/15148) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago)
+- [categorize changes in release drafter config](https://github.com/jhipster/generator-jhipster/pull/15060) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago)
+- [supress noisy logs on startup in dev profile](https://github.com/jhipster/generator-jhipster/pull/15004) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago)
+- [add talk at JUG Bonn](https://github.com/jhipster/jhipster.github.io/pull/1124) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
