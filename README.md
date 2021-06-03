@@ -20,11 +20,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [refine release drafter categories](https://github.com/jhipster/generator-jhipster/pull/15149) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago)
-- [cache frontend application files](https://github.com/jhipster/generator-jhipster/pull/15148) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago)
-- [categorize changes in release drafter config](https://github.com/jhipster/generator-jhipster/pull/15060) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago)
-- [supress noisy logs on startup in dev profile](https://github.com/jhipster/generator-jhipster/pull/15004) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago)
-- [add talk at JUG Bonn](https://github.com/jhipster/jhipster.github.io/pull/1124) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (3 weeks ago)
+- [refine release drafter categories](https://github.com/jhipster/generator-jhipster/pull/15149) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago) (MERGED)
+- [cache frontend application files](https://github.com/jhipster/generator-jhipster/pull/15148) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago) (MERGED)
+- [categorize changes in release drafter config](https://github.com/jhipster/generator-jhipster/pull/15060) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
+- [supress noisy logs on startup in dev profile](https://github.com/jhipster/generator-jhipster/pull/15004) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
+- [add talk at JUG Bonn](https://github.com/jhipster/jhipster.github.io/pull/1124) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (3 weeks ago) (MERGED)
 
 #### 📜 My recent blog posts
 
