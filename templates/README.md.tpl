@@ -12,9 +12,17 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
+{{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
+
+#### ⭐ Recently starred
+{{range recentStars 5}}
+Name: {{.Name}}
+Description: {{.Description}}
+URL: {{.URL}})
+Stars: {{.Stargazers}}
+{{end}}
 
 #### 📜 My recent blog posts
 {{range rss "https://atomfrede.gitlab.io/index.xml" 5}}
