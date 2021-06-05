@@ -8,11 +8,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (1 day ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 days ago)
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 weeks ago)
+- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (3 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 weeks ago)
 - [atomfrede/jh-14814-sample](https://github.com/atomfrede/jh-14814-sample) -  (3 weeks ago)
-- [oci-labs/mhipster-webinar-demos](https://github.com/oci-labs/mhipster-webinar-demos) - Demo Applications from the MHipster Webinar on May 7th, 2021 (3 weeks ago)
+- [oci-labs/mhipster-webinar-demos](https://github.com/oci-labs/mhipster-webinar-demos) - Demo Applications from the MHipster Webinar on May 7th, 2021 (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -20,10 +20,10 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [refine release drafter categories](https://github.com/jhipster/generator-jhipster/pull/15149) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago) (MERGED)
-- [cache frontend application files](https://github.com/jhipster/generator-jhipster/pull/15148) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago) (MERGED)
+- [refine release drafter categories](https://github.com/jhipster/generator-jhipster/pull/15149) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
+- [cache frontend application files](https://github.com/jhipster/generator-jhipster/pull/15148) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
 - [categorize changes in release drafter config](https://github.com/jhipster/generator-jhipster/pull/15060) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [supress noisy logs on startup in dev profile](https://github.com/jhipster/generator-jhipster/pull/15004) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
+- [supress noisy logs on startup in dev profile](https://github.com/jhipster/generator-jhipster/pull/15004) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
 - [add talk at JUG Bonn](https://github.com/jhipster/jhipster.github.io/pull/1124) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (3 weeks ago) (MERGED)
 
 #### 📜 My recent blog posts
