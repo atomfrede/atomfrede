@@ -8,11 +8,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (3 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
+- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (1 week ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 weeks ago)
-- [atomfrede/jh-14814-sample](https://github.com/atomfrede/jh-14814-sample) -  (3 weeks ago)
-- [oci-labs/mhipster-webinar-demos](https://github.com/oci-labs/mhipster-webinar-demos) - Demo Applications from the MHipster Webinar on May 7th, 2021 (4 weeks ago)
+- [atomfrede/jh-14814-sample](https://github.com/atomfrede/jh-14814-sample) -  (1 month ago)
+- [oci-labs/mhipster-webinar-demos](https://github.com/oci-labs/mhipster-webinar-demos) - Demo Applications from the MHipster Webinar on May 7th, 2021 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -20,17 +20,17 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
+- [supress detailed debug logging of handler mappings for reactive apps](https://github.com/jhipster/generator-jhipster/pull/15271) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (MERGED)
+- [fix mssql and r2dbc integration](https://github.com/jhipster/generator-jhipster/pull/15264) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 days ago) (MERGED)
 - [refine release drafter categories](https://github.com/jhipster/generator-jhipster/pull/15149) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
 - [cache frontend application files](https://github.com/jhipster/generator-jhipster/pull/15148) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
-- [categorize changes in release drafter config](https://github.com/jhipster/generator-jhipster/pull/15060) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [supress noisy logs on startup in dev profile](https://github.com/jhipster/generator-jhipster/pull/15004) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
-- [add talk at JUG Bonn](https://github.com/jhipster/jhipster.github.io/pull/1124) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (3 weeks ago) (MERGED)
+- [categorize changes in release drafter config](https://github.com/jhipster/generator-jhipster/pull/15060) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
 
 #### 📜 My recent blog posts
 
-- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (1 month ago)
+- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (2 months ago)
 - [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (2 months ago)
-- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (2 months ago)
+- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (3 months ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (2 years ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (2 years ago)
 
