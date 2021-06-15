@@ -9,10 +9,10 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👷 Check out what I'm currently working on
 
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
-- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (1 week ago)
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 weeks ago)
+- [atomfrede/jh-webflux-mariadb-gradle-sample](https://github.com/atomfrede/jh-webflux-mariadb-gradle-sample) -  (1 day ago)
+- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (1 day ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
 - [atomfrede/jh-14814-sample](https://github.com/atomfrede/jh-14814-sample) -  (1 month ago)
-- [oci-labs/mhipster-webinar-demos](https://github.com/oci-labs/mhipster-webinar-demos) - Demo Applications from the MHipster Webinar on May 7th, 2021 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -20,11 +20,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [supress detailed debug logging of handler mappings for reactive apps](https://github.com/jhipster/generator-jhipster/pull/15271) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (MERGED)
-- [fix mssql and r2dbc integration](https://github.com/jhipster/generator-jhipster/pull/15264) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 days ago) (MERGED)
-- [refine release drafter categories](https://github.com/jhipster/generator-jhipster/pull/15149) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
-- [cache frontend application files](https://github.com/jhipster/generator-jhipster/pull/15148) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
-- [categorize changes in release drafter config](https://github.com/jhipster/generator-jhipster/pull/15060) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
+- [Draft: fix webflux &#43; mariadb and gradle ci jib](https://github.com/jhipster/generator-jhipster/pull/15328) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (OPEN)
+- [refine webpack task input for gradle caching](https://github.com/jhipster/generator-jhipster/pull/15326) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (OPEN)
+- [update gradle to 7.1](https://github.com/jhipster/generator-jhipster/pull/15325) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (MERGED)
+- [supress detailed debug logging of handler mappings for reactive apps](https://github.com/jhipster/generator-jhipster/pull/15271) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago) (MERGED)
+- [fix mssql and r2dbc integration](https://github.com/jhipster/generator-jhipster/pull/15264) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
 
 #### 📜 My recent blog posts
 
