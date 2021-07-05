@@ -8,7 +8,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 days ago)
 - [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (2 weeks ago)
 - [atomfrede/jh-webflux-mariadb-gradle-sample](https://github.com/atomfrede/jh-webflux-mariadb-gradle-sample) -  (2 weeks ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
@@ -20,11 +20,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
+- [update to gradle 7.1.1](https://github.com/jhipster/generator-jhipster/pull/15538) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 days ago) (MERGED)
 - [downgrade gradle](https://github.com/jhipster/generator-jhipster/pull/15367) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [fix webflux &#43; mariadb and gradle ci job](https://github.com/jhipster/generator-jhipster/pull/15328) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [refine webpack task input for gradle caching](https://github.com/jhipster/generator-jhipster/pull/15326) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [update gradle to 7.1](https://github.com/jhipster/generator-jhipster/pull/15325) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [supress detailed debug logging of handler mappings for reactive apps](https://github.com/jhipster/generator-jhipster/pull/15271) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
+- [fix webflux &#43; mariadb and gradle ci job](https://github.com/jhipster/generator-jhipster/pull/15328) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
+- [refine webpack task input for gradle caching](https://github.com/jhipster/generator-jhipster/pull/15326) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
+- [update gradle to 7.1](https://github.com/jhipster/generator-jhipster/pull/15325) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
 
 #### 📜 My recent blog posts
 
