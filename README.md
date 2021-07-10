@@ -8,11 +8,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 days ago)
-- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (2 weeks ago)
-- [atomfrede/jh-webflux-mariadb-gradle-sample](https://github.com/atomfrede/jh-webflux-mariadb-gradle-sample) -  (2 weeks ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
+- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (3 weeks ago)
+- [atomfrede/jh-webflux-mariadb-gradle-sample](https://github.com/atomfrede/jh-webflux-mariadb-gradle-sample) -  (3 weeks ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
-- [atomfrede/jh-14814-sample](https://github.com/atomfrede/jh-14814-sample) -  (1 month ago)
+- [atomfrede/jh-14814-sample](https://github.com/atomfrede/jh-14814-sample) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -20,17 +20,17 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [update to gradle 7.1.1](https://github.com/jhipster/generator-jhipster/pull/15538) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 days ago) (MERGED)
-- [downgrade gradle](https://github.com/jhipster/generator-jhipster/pull/15367) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
+- [downgrade gradle to 7.0.2](https://github.com/jhipster/generator-jhipster/pull/15576) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 days ago) (MERGED)
+- [update to gradle 7.1.1](https://github.com/jhipster/generator-jhipster/pull/15538) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
+- [downgrade gradle](https://github.com/jhipster/generator-jhipster/pull/15367) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
 - [fix webflux &#43; mariadb and gradle ci job](https://github.com/jhipster/generator-jhipster/pull/15328) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
 - [refine webpack task input for gradle caching](https://github.com/jhipster/generator-jhipster/pull/15326) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
-- [update gradle to 7.1](https://github.com/jhipster/generator-jhipster/pull/15325) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
 
 #### 📜 My recent blog posts
 
-- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (2 months ago)
+- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (3 months ago)
 - [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (3 months ago)
-- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (3 months ago)
+- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (4 months ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (2 years ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (2 years ago)
 
