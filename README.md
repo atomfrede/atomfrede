@@ -21,7 +21,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 🔨 Latest Pull Requests I published
 
 - [downgrade gradle to 7.0.2](https://github.com/jhipster/generator-jhipster/pull/15576) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [update to gradle 7.1.1](https://github.com/jhipster/generator-jhipster/pull/15538) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
+- [update to gradle 7.1.1](https://github.com/jhipster/generator-jhipster/pull/15538) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
 - [downgrade gradle](https://github.com/jhipster/generator-jhipster/pull/15367) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 - [fix webflux &#43; mariadb and gradle ci job](https://github.com/jhipster/generator-jhipster/pull/15328) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 - [refine webpack task input for gradle caching](https://github.com/jhipster/generator-jhipster/pull/15326) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
