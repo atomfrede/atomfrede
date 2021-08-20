@@ -22,14 +22,14 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [downgrade gradle to 7.0.2](https://github.com/jhipster/generator-jhipster/pull/15576) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 - [update to gradle 7.1.1](https://github.com/jhipster/generator-jhipster/pull/15538) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
-- [downgrade gradle](https://github.com/jhipster/generator-jhipster/pull/15367) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
+- [downgrade gradle](https://github.com/jhipster/generator-jhipster/pull/15367) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
 - [fix webflux &#43; mariadb and gradle ci job](https://github.com/jhipster/generator-jhipster/pull/15328) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
 - [refine webpack task input for gradle caching](https://github.com/jhipster/generator-jhipster/pull/15326) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
 
 #### 📜 My recent blog posts
 
 - [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (4 months ago)
-- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (4 months ago)
+- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (5 months ago)
 - [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (5 months ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (2 years ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (2 years ago)
@@ -37,8 +37,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 📜 JUG Paderborn's recent blog posts
 
 - [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (1 year ago)
-- [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (1 year ago)
-- [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (1 year ago)
+- [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (2 years ago)
+- [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (2 years ago)
 
 #### 👯 I’m looking to collaborate on
 
