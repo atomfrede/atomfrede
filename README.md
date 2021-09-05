@@ -8,7 +8,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (5 days ago)
 - [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (2 months ago)
 - [atomfrede/jh-webflux-mariadb-gradle-sample](https://github.com/atomfrede/jh-webflux-mariadb-gradle-sample) -  (2 months ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 months ago)
@@ -21,7 +21,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 🔨 Latest Pull Requests I published
 
 - [update husky to 7.0.2](https://github.com/jhipster/generator-jhipster/pull/16055) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
-- [downgrade gradle to 7.0.2](https://github.com/jhipster/generator-jhipster/pull/15576) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
+- [downgrade gradle to 7.0.2](https://github.com/jhipster/generator-jhipster/pull/15576) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
 - [update to gradle 7.1.1](https://github.com/jhipster/generator-jhipster/pull/15538) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
 - [downgrade gradle](https://github.com/jhipster/generator-jhipster/pull/15367) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
 - [fix webflux &#43; mariadb and gradle ci job](https://github.com/jhipster/generator-jhipster/pull/15328) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
@@ -36,7 +36,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (1 year ago)
+- [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (2 years ago)
 - [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (2 years ago)
 - [Todesursache: Hibernate](https://jug-pb.gitlab.io/blog/2020/todesursache-hibernate.html) (2 years ago)
 
