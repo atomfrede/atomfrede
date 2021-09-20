@@ -8,29 +8,29 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 day ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
-- [atomfrede/jhipster-ge-monolith-angular](https://github.com/atomfrede/jhipster-ge-monolith-angular) -  (3 months ago)
-- [atomfrede/jh-webflux-mariadb-gradle-sample](https://github.com/atomfrede/jh-webflux-mariadb-gradle-sample) -  (3 months ago)
-- [atomfrede/jh-14814-sample](https://github.com/atomfrede/jh-14814-sample) -  (4 months ago)
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway. (4 days ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (4 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
+- [jhipster/jhipster-sample-app-gradle](https://github.com/jhipster/jhipster-sample-app-gradle) - This is a sample application created with JHipster, with the Gradle option (5 days ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([7.2.0](https://github.com/jhipster/jhipster-bom/releases/tag/7.2.0), 4 days ago) - JHipster BOM and server-side library
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([0.3.1](https://github.com/michael-simons/neo4j-migrations/releases/tag/0.3.1), 1 month ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
 - [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.3.0](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.3.0), 6 months ago) - Testcontainers module for running Cypress tests
 
 #### 🔨 Latest Pull Requests I published
 
-- [enabled build cache when gradle enterprise is selected](https://github.com/jhipster/generator-jhipster/pull/16298) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (OPEN)
-- [remove dead link in code comment](https://github.com/jhipster/generator-jhipster/pull/16297) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (OPEN)
-- [Enable gradle enterprise](https://github.com/jhipster/jhipster-sample-app-gradle/pull/3) on [jhipster/jhipster-sample-app-gradle](https://github.com/jhipster/jhipster-sample-app-gradle) (1 day ago) (OPEN)
-- [add gradle enterprise to release notes](https://github.com/jhipster/jhipster.github.io/pull/1164) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (1 day ago) (MERGED)
-- [exclude dependabot from changelist](https://github.com/jhipster/generator-jhipster/pull/16274) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 days ago) (MERGED)
+- [make the example fit explanations](https://github.com/michael-simons/neo4j-migrations/pull/262) on [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) (4 days ago) (MERGED)
+- [make the example fit explanations](https://github.com/atomfrede/neo4j-migrations/pull/1) on [atomfrede/neo4j-migrations](https://github.com/atomfrede/neo4j-migrations) (4 days ago) (OPEN)
+- [update gradle to 7.2.0](https://github.com/jhipster/generator-jhipster/pull/16307) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (MERGED)
+- [do not ask for additional okta properties if not selected](https://github.com/jhipster/generator-jhipster/pull/16306) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (MERGED)
+- [enabled build cache when gradle enterprise is selected](https://github.com/jhipster/generator-jhipster/pull/16298) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago) (OPEN)
 
 #### 📜 My recent blog posts
 
 - [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (5 months ago)
-- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (5 months ago)
+- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (6 months ago)
 - [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (6 months ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (2 years ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (2 years ago)
