@@ -8,11 +8,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway. (4 days ago)
-- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (4 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
-- [jhipster/jhipster-sample-app-gradle](https://github.com/jhipster/jhipster-sample-app-gradle) - This is a sample application created with JHipster, with the Gradle option (5 days ago)
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (6 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (5 days ago)
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway. (1 week ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 week ago)
+- [jhipster/jhipster-sample-app-gradle](https://github.com/jhipster/jhipster-sample-app-gradle) - This is a sample application created with JHipster, with the Gradle option (1 week ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -21,11 +21,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [make the example fit explanations](https://github.com/michael-simons/neo4j-migrations/pull/262) on [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) (4 days ago) (MERGED)
-- [make the example fit explanations](https://github.com/atomfrede/neo4j-migrations/pull/1) on [atomfrede/neo4j-migrations](https://github.com/atomfrede/neo4j-migrations) (4 days ago) (OPEN)
-- [update gradle to 7.2.0](https://github.com/jhipster/generator-jhipster/pull/16307) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (MERGED)
-- [do not ask for additional okta properties if not selected](https://github.com/jhipster/generator-jhipster/pull/16306) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (MERGED)
-- [enabled build cache when gradle enterprise is selected](https://github.com/jhipster/generator-jhipster/pull/16298) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (6 days ago) (OPEN)
+- [remove unnecessarily escaped quote](https://github.com/jhipster/generator-jhipster/pull/16365) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (MERGED)
+- [replace feature policy with permission policy](https://github.com/jhipster/generator-jhipster/pull/16364) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (MERGED)
+- [make the example fit explanations](https://github.com/michael-simons/neo4j-migrations/pull/262) on [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) (1 week ago) (MERGED)
+- [make the example fit explanations](https://github.com/atomfrede/neo4j-migrations/pull/1) on [atomfrede/neo4j-migrations](https://github.com/atomfrede/neo4j-migrations) (1 week ago) (CLOSED)
+- [update gradle to 7.2.0](https://github.com/jhipster/generator-jhipster/pull/16307) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
 
 #### 📜 My recent blog posts
 
