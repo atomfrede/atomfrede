@@ -9,9 +9,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👷 Check out what I'm currently working on
 
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 weeks ago)
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway. (2 weeks ago)
-- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (2 weeks ago)
-- [jhipster/jhipster-sample-app-gradle](https://github.com/jhipster/jhipster-sample-app-gradle) - This is a sample application created with JHipster, with the Gradle option (2 weeks ago)
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway. (3 weeks ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (3 weeks ago)
+- [jhipster/jhipster-sample-app-gradle](https://github.com/jhipster/jhipster-sample-app-gradle) - This is a sample application created with JHipster, with the Gradle option (3 weeks ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -21,17 +21,17 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
+- [enable gzip compression for svg images](https://github.com/jhipster/generator-jhipster/pull/16588) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 days ago) (MERGED)
 - [remove unnecessarily escaped quote](https://github.com/jhipster/generator-jhipster/pull/16365) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
 - [replace feature policy with permission policy](https://github.com/jhipster/generator-jhipster/pull/16364) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [make the example fit explanations](https://github.com/michael-simons/neo4j-migrations/pull/262) on [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) (2 weeks ago) (MERGED)
-- [make the example fit explanations](https://github.com/atomfrede/neo4j-migrations/pull/1) on [atomfrede/neo4j-migrations](https://github.com/atomfrede/neo4j-migrations) (2 weeks ago) (CLOSED)
-- [update gradle to 7.2.0](https://github.com/jhipster/generator-jhipster/pull/16307) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
+- [make the example fit explanations](https://github.com/michael-simons/neo4j-migrations/pull/262) on [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) (3 weeks ago) (MERGED)
+- [make the example fit explanations](https://github.com/atomfrede/neo4j-migrations/pull/1) on [atomfrede/neo4j-migrations](https://github.com/atomfrede/neo4j-migrations) (3 weeks ago) (CLOSED)
 
 #### 📜 My recent blog posts
 
-- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (5 months ago)
+- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (6 months ago)
 - [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (6 months ago)
-- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (6 months ago)
+- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (7 months ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (2 years ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (2 years ago)
 
