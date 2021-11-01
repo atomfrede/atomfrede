@@ -8,23 +8,23 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 week ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 weeks ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 weeks ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 weeks ago)
 - [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway. (1 month ago)
 - [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 month ago)
 - [jhipster/jhipster-sample-app-gradle](https://github.com/jhipster/jhipster-sample-app-gradle) - This is a sample application created with JHipster, with the Gradle option (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([0.3.2](https://github.com/michael-simons/neo4j-migrations/releases/tag/0.3.2), 1 week ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([0.3.2](https://github.com/michael-simons/neo4j-migrations/releases/tag/0.3.2), 2 weeks ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
 - [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.3.0](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.3.0), 7 months ago) - Testcontainers module for running Cypress tests
 
 #### 🔨 Latest Pull Requests I published
 
-- [remove past events](https://github.com/jhipster/jhipster.github.io/pull/1172) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (1 week ago) (MERGED)
-- [use jdk11 as default heroku jdk](https://github.com/jhipster/generator-jhipster/pull/16625) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [support jdk17 with heroku sub gen](https://github.com/jhipster/generator-jhipster/pull/16624) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
-- [enable gzip compression for svg images](https://github.com/jhipster/generator-jhipster/pull/16588) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
+- [remove past events](https://github.com/jhipster/jhipster.github.io/pull/1172) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (2 weeks ago) (MERGED)
+- [use jdk11 as default heroku jdk](https://github.com/jhipster/generator-jhipster/pull/16625) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
+- [support jdk17 with heroku sub gen](https://github.com/jhipster/generator-jhipster/pull/16624) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
+- [enable gzip compression for svg images](https://github.com/jhipster/generator-jhipster/pull/16588) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
 - [remove unnecessarily escaped quote](https://github.com/jhipster/generator-jhipster/pull/16365) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 
 #### 📜 My recent blog posts
