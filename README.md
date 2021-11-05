@@ -8,7 +8,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 weeks ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 weeks ago)
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 weeks ago)
 - [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway. (1 month ago)
 - [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 month ago)
@@ -21,17 +21,17 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [remove past events](https://github.com/jhipster/jhipster.github.io/pull/1172) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (2 weeks ago) (MERGED)
+- [remove past events](https://github.com/jhipster/jhipster.github.io/pull/1172) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (3 weeks ago) (MERGED)
 - [use jdk11 as default heroku jdk](https://github.com/jhipster/generator-jhipster/pull/16625) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
 - [support jdk17 with heroku sub gen](https://github.com/jhipster/generator-jhipster/pull/16624) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
-- [enable gzip compression for svg images](https://github.com/jhipster/generator-jhipster/pull/16588) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
+- [enable gzip compression for svg images](https://github.com/jhipster/generator-jhipster/pull/16588) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 - [remove unnecessarily escaped quote](https://github.com/jhipster/generator-jhipster/pull/16365) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 
 #### 📜 My recent blog posts
 
 - [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (6 months ago)
 - [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (7 months ago)
-- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (7 months ago)
+- [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (8 months ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (2 years ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (2 years ago)
 
