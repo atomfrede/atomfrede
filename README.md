@@ -16,8 +16,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.6.1](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.6.1), 1 day ago) - Testcontainers module for running Cypress tests
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.1.0](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.1.0), 3 days ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.6.1](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.6.1), 1 week ago) - Testcontainers module for running Cypress tests
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.1.0](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.1.0), 1 week ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
 
 #### 🔨 Latest Pull Requests I published
 
