@@ -16,7 +16,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.3.3](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.3.3), 1 day ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.3.3](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.3.3), 6 days ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.1](https://github.com/atomfrede/jadenticon/releases/tag/3.0.1), 1 month ago) - Java wrapper for jdenticon
 - [wimdeblauwe/testcontainers-cypress](https://github.com/wimdeblauwe/testcontainers-cypress) ([testcontainers-cypress-1.6.1](https://github.com/wimdeblauwe/testcontainers-cypress/releases/tag/testcontainers-cypress-1.6.1), 2 months ago) - Testcontainers module for running Cypress tests
 
@@ -26,7 +26,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 - [use jdk11 as default heroku jdk](https://github.com/jhipster/generator-jhipster/pull/16625) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 months ago) (MERGED)
 - [support jdk17 with heroku sub gen](https://github.com/jhipster/generator-jhipster/pull/16624) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 months ago) (MERGED)
 - [enable gzip compression for svg images](https://github.com/jhipster/generator-jhipster/pull/16588) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 months ago) (MERGED)
-- [remove unnecessarily escaped quote](https://github.com/jhipster/generator-jhipster/pull/16365) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 months ago) (MERGED)
+- [remove unnecessarily escaped quote](https://github.com/jhipster/generator-jhipster/pull/16365) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 months ago) (MERGED)
 
 #### 📜 My recent blog posts
 
