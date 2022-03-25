@@ -8,25 +8,25 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 days ago)
-- [atomfrede/javaland-2022-karate-workshop](https://github.com/atomfrede/javaland-2022-karate-workshop) - Sample application and code for Testing mit Karate at Javaland 2022 (5 days ago)
-- [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand) - JavaLand-Konferenz (2 weeks ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
+- [atomfrede/playwright-blog-sample-part-3](https://github.com/atomfrede/playwright-blog-sample-part-3) -  (1 day ago)
+- [atomfrede/javaland-2022-karate-workshop](https://github.com/atomfrede/javaland-2022-karate-workshop) - Sample application and code for Testing mit Karate at Javaland 2022 (1 week ago)
+- [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand) - JavaLand-Konferenz (3 weeks ago)
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (2 months ago)
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.5.1](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.5.1), 1 week ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.5.2](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.5.2), 4 days ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v7.7.0](https://github.com/jhipster/generator-jhipster/releases/tag/v7.7.0), 3 weeks ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.1](https://github.com/atomfrede/jadenticon/releases/tag/3.0.1), 2 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [configure mysql docker image to run with m1 macs](https://github.com/jhipster/generator-jhipster/pull/18150) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 days ago) (MERGED)
-- [Update karate workshop description](https://github.com/ijug-ev/JavaLand/pull/19) on [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand) (2 weeks ago) (MERGED)
-- [Update karate workshop description](https://github.com/atomfrede/JavaLand/pull/1) on [atomfrede/JavaLand](https://github.com/atomfrede/JavaLand) (2 weeks ago) (CLOSED)
-- [remove past events](https://github.com/jhipster/jhipster.github.io/pull/1172) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (5 months ago) (MERGED)
-- [use jdk11 as default heroku jdk](https://github.com/jhipster/generator-jhipster/pull/16625) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 months ago) (MERGED)
+- [add additional gradle needles](https://github.com/jhipster/generator-jhipster/pull/18199) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (MERGED)
+- [add gradle support](https://github.com/jhipster/generator-jhipster-native/pull/25) on [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) (1 day ago) (OPEN)
+- [configure mysql docker image to run with m1 macs](https://github.com/jhipster/generator-jhipster/pull/18150) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
+- [Update karate workshop description](https://github.com/ijug-ev/JavaLand/pull/19) on [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand) (3 weeks ago) (MERGED)
+- [Update karate workshop description](https://github.com/atomfrede/JavaLand/pull/1) on [atomfrede/JavaLand](https://github.com/atomfrede/JavaLand) (3 weeks ago) (CLOSED)
 
 #### 📜 My recent blog posts
 
