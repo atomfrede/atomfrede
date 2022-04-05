@@ -8,23 +8,24 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/jte-spring-boot-starter](https://github.com/atomfrede/jte-spring-boot-starter) - A minimal spring boot starter for JTE template engine (2 days ago)
-- [casid/jte-spring-boot-demo](https://github.com/casid/jte-spring-boot-demo) - A simple demo of jte running with Spring Boot. (5 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
-- [atomfrede/playwright-blog-sample-part-3](https://github.com/atomfrede/playwright-blog-sample-part-3) -  (1 week ago)
-- [atomfrede/javaland-2022-karate-workshop](https://github.com/atomfrede/javaland-2022-karate-workshop) - Sample application and code for Testing mit Karate at Javaland 2022 (2 weeks ago)
+- [atomfrede/reactive-sql-jhipster-reproducer](https://github.com/atomfrede/reactive-sql-jhipster-reproducer) -  (1 day ago)
+- [atomfrede/jte-spring-boot-starter](https://github.com/atomfrede/jte-spring-boot-starter) - A minimal spring boot starter for JTE template engine (1 day ago)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (3 days ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (4 days ago)
+- [casid/jte-spring-boot-demo](https://github.com/casid/jte-spring-boot-demo) - A simple demo of jte running with Spring Boot. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.5.2](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.5.2), 1 week ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v7.7.0](https://github.com/jhipster/generator-jhipster/releases/tag/v7.7.0), 1 month ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.1](https://github.com/atomfrede/jadenticon/releases/tag/3.0.1), 2 months ago) - Java wrapper for jdenticon
+- [casid/jte](https://github.com/casid/jte) ([2.0.2](https://github.com/casid/jte/releases/tag/2.0.2), 1 day ago) - Secure and speedy templates for Java and Kotlin.
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.5.3](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.5.3), 1 day ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.2](https://github.com/atomfrede/jadenticon/releases/tag/3.0.2), 4 days ago) - Java wrapper for jdenticon
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v7.8.0](https://github.com/jhipster/generator-jhipster/releases/tag/v7.8.0), 4 days ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
 
 #### 🔨 Latest Pull Requests I published
 
-- [initial spring boot starter implementation](https://github.com/casid/jte/pull/144) on [casid/jte](https://github.com/casid/jte) (1 day ago) (OPEN)
-- [Spring boot starter usage](https://github.com/casid/jte-spring-boot-demo/pull/10) on [casid/jte-spring-boot-demo](https://github.com/casid/jte-spring-boot-demo) (2 days ago) (OPEN)
-- [use spring template resolver and view](https://github.com/casid/jte-spring-boot-demo/pull/9) on [casid/jte-spring-boot-demo](https://github.com/casid/jte-spring-boot-demo) (6 days ago) (MERGED)
+- [initial spring boot starter implementation](https://github.com/casid/jte/pull/144) on [casid/jte](https://github.com/casid/jte) (5 days ago) (MERGED)
+- [Spring boot starter usage](https://github.com/casid/jte-spring-boot-demo/pull/10) on [casid/jte-spring-boot-demo](https://github.com/casid/jte-spring-boot-demo) (6 days ago) (CLOSED)
+- [use spring template resolver and view](https://github.com/casid/jte-spring-boot-demo/pull/9) on [casid/jte-spring-boot-demo](https://github.com/casid/jte-spring-boot-demo) (1 week ago) (MERGED)
 - [expose additional gradle needles to base generator](https://github.com/jhipster/generator-jhipster/pull/18213) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
 - [enforce utf-8 encoding when rendering templates](https://github.com/casid/jte-spring-boot-demo/pull/8) on [casid/jte-spring-boot-demo](https://github.com/casid/jte-spring-boot-demo) (1 week ago) (MERGED)
 
