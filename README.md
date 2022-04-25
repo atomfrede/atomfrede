@@ -8,26 +8,26 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservice architectures, step by step. (4 days ago)
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (6 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservice architectures, step by step. (1 week ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (1 week ago)
 - [atomfrede/jhipster-reactive-sql-workaround](https://github.com/atomfrede/jhipster-reactive-sql-workaround) -  (2 weeks ago)
-- [atomfrede/reactive-sql-jhipster-reproducer](https://github.com/atomfrede/reactive-sql-jhipster-reproducer) -  (2 weeks ago)
+- [atomfrede/reactive-sql-jhipster-reproducer](https://github.com/atomfrede/reactive-sql-jhipster-reproducer) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.1.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.1.0), 3 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservice architectures, step by step.
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.5.4](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.5.4), 1 week ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
-- [casid/jte](https://github.com/casid/jte) ([2.0.2](https://github.com/casid/jte/releases/tag/2.0.2), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.2](https://github.com/atomfrede/jadenticon/releases/tag/3.0.2), 2 weeks ago) - Java wrapper for jdenticon
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.2.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.2.0), 1 day ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservice architectures, step by step.
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.5.4](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.5.4), 2 weeks ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [casid/jte](https://github.com/casid/jte) ([2.0.2](https://github.com/casid/jte/releases/tag/2.0.2), 3 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.2](https://github.com/atomfrede/jadenticon/releases/tag/3.0.2), 3 weeks ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix playwright test spec](https://github.com/jhipster/jhipster-lite/pull/1373) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (4 days ago) (MERGED)
+- [move h2 deps to dev profile for gradle](https://github.com/jhipster/generator-jhipster/pull/18452) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (MERGED)
+- [add correct springdoc dependency version depending on reactive/webmvc](https://github.com/jhipster/generator-jhipster/pull/18450) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 days ago) (MERGED)
+- [define boot dev tools only in main gradle](https://github.com/jhipster/generator-jhipster/pull/18434) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 days ago) (MERGED)
+- [fix playwright test spec](https://github.com/jhipster/jhipster-lite/pull/1373) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (MERGED)
 - [add github actions for gradle based builds](https://github.com/jhipster/jhipster-lite/pull/1342) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (MERGED)
-- [add initial playwright configuration](https://github.com/jhipster/jhipster-lite/pull/1322) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (MERGED)
-- [fine tune release drafter such that all PRs are contained](https://github.com/jhipster/generator-jhipster/pull/18327) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (CLOSED)
-- [support gradle init and wrapper](https://github.com/jhipster/jhipster-lite/pull/1292) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (MERGED)
 
 #### 📜 My recent blog posts
 
