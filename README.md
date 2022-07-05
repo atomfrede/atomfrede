@@ -12,14 +12,14 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 - [atomfrede/what-is-jhipster-and-why-should-you-try-it](https://github.com/atomfrede/what-is-jhipster-and-why-should-you-try-it) -  (1 month ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
 - [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) -  (2 months ago)
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservice architectures, step by step. (2 months ago)
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.9.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.9.0), 2 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservice architectures, step by step.
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.8.0](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.8.0), 4 days ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.8.1](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.8.1), 1 day ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.9.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.9.0), 6 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
 - [casid/jte](https://github.com/casid/jte) ([2.1.1](https://github.com/casid/jte/releases/tag/2.1.1), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
-- [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) ([v1.2.0](https://github.com/jhipster/generator-jhipster-native/releases/tag/v1.2.0), 1 month ago) - 
+- [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) ([v1.2.0](https://github.com/jhipster/generator-jhipster-native/releases/tag/v1.2.0), 2 months ago) - 
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.2](https://github.com/atomfrede/jadenticon/releases/tag/3.0.2), 3 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
