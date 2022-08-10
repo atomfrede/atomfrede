@@ -8,27 +8,27 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (5 days ago)
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step. (1 week ago)
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (3 weeks ago)
-- [atomfrede/generator-jhipster-playwright](https://github.com/atomfrede/generator-jhipster-playwright) - Blueprint to support Playwright as end-2-end testing framework (4 weeks ago)
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (4 weeks ago)
+- [atomfrede/generator-jhipster-playwright](https://github.com/atomfrede/generator-jhipster-playwright) - Blueprint to support Playwright as end-2-end testing framework (1 month ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 months ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([7.9.2](https://github.com/jhipster/jhipster-bom/releases/tag/7.9.2), 2 days ago) - JHipster BOM and server-side library
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.9.1](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.9.1), 3 days ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.13.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.13.0), 4 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
-- [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) ([v1.2.1](https://github.com/jhipster/generator-jhipster-native/releases/tag/v1.2.1), 4 weeks ago) - 
-- [casid/jte](https://github.com/casid/jte) ([2.1.2](https://github.com/casid/jte/releases/tag/2.1.2), 4 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.9.1](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.9.1), 1 week ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.13.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.13.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
+- [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) ([v1.2.1](https://github.com/jhipster/generator-jhipster-native/releases/tag/v1.2.1), 1 month ago) - 
+- [casid/jte](https://github.com/casid/jte) ([2.1.2](https://github.com/casid/jte/releases/tag/2.1.2), 1 month ago) - Secure and speedy templates for Java and Kotlin.
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.2](https://github.com/atomfrede/jadenticon/releases/tag/3.0.2), 4 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [use caffeine cache for caching user information](https://github.com/jhipster/generator-jhipster/pull/19301) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 days ago) (OPEN)
-- [update spring native to 0.12.1](https://github.com/jhipster/generator-jhipster-native/pull/52) on [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) (4 days ago) (OPEN)
+- [correct entity template to use fieldname correctly](https://github.com/jhipster/generator-jhipster/pull/19351) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (OPEN)
+- [ignore h2-console for csrf usage](https://github.com/jhipster/generator-jhipster/pull/19347) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (MERGED)
+- [use caffeine cache for caching user information](https://github.com/jhipster/generator-jhipster/pull/19301) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
+- [update spring native to 0.12.1](https://github.com/jhipster/generator-jhipster-native/pull/52) on [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) (1 week ago) (OPEN)
 - [Add initial GitLab CI module](https://github.com/jhipster/jhipster-lite/pull/2840) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (MERGED)
-- [Gradle dependencies command handling](https://github.com/jhipster/jhipster-lite/pull/2748) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (OPEN)
-- [remove r2dbc auto config exclusion](https://github.com/jhipster/generator-jhipster-jooq/pull/11) on [jhipster/generator-jhipster-jooq](https://github.com/jhipster/generator-jhipster-jooq) (3 weeks ago) (OPEN)
 
 #### 📜 My recent blog posts
 
@@ -40,7 +40,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Quarkus - the rising star](https://jug-pb.gitlab.io/blog/2022/quarkus-rising-star.html) (2 weeks ago)
+- [Quarkus - the rising star](https://jug-pb.gitlab.io/blog/2022/quarkus-rising-star.html) (3 weeks ago)
 - [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (2 years ago)
 - [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (2 years ago)
 
