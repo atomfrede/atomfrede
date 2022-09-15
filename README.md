@@ -8,32 +8,32 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 weeks ago)
-- [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) -  (2 weeks ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 weeks ago)
+- [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) -  (3 weeks ago)
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 weeks ago)
-- [atomfrede/kuchenschuld2](https://github.com/atomfrede/kuchenschuld2) -  (4 weeks ago)
+- [atomfrede/kuchenschuld2](https://github.com/atomfrede/kuchenschuld2) -  (1 month ago)
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.14.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.14.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
-- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.10.1](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.10.1), 1 week ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
-- [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) ([v1.3.1](https://github.com/jhipster/generator-jhipster-native/releases/tag/v1.3.1), 2 weeks ago) - 
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.15.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.15.0), 1 day ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
+- [michael-simons/neo4j-migrations](https://github.com/michael-simons/neo4j-migrations) ([1.11.0](https://github.com/michael-simons/neo4j-migrations/releases/tag/1.11.0), 3 days ago) - Automated script runner aka &#34;Migrations&#34; for Neo4j. Inspired by Flyway.
+- [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) ([v1.3.1](https://github.com/jhipster/generator-jhipster-native/releases/tag/v1.3.1), 3 weeks ago) - 
 - [casid/jte](https://github.com/casid/jte) ([2.1.2](https://github.com/casid/jte/releases/tag/2.1.2), 2 months ago) - Secure and speedy templates for Java and Kotlin.
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.2](https://github.com/atomfrede/jadenticon/releases/tag/3.0.2), 5 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [update jhipster to 7.9.3](https://github.com/jhipster/generator-jhipster-native/pull/65) on [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) (1 day ago) (OPEN)
-- [add idea jdl plugin](https://github.com/jhipster/jhipster.github.io/pull/1226) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (2 weeks ago) (MERGED)
+- [update jhipster to 7.9.3](https://github.com/jhipster/generator-jhipster-native/pull/65) on [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) (6 days ago) (OPEN)
+- [add idea jdl plugin](https://github.com/jhipster/jhipster.github.io/pull/1226) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (3 weeks ago) (MERGED)
 - [add jwt reflect and resource config to support jwt authentication type](https://github.com/jhipster/generator-jhipster-native/pull/59) on [jhipster/generator-jhipster-native](https://github.com/jhipster/generator-jhipster-native) (3 weeks ago) (MERGED)
-- [fix incorrect eureka status message](https://github.com/jhipster/generator-jhipster/pull/19465) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
-- [wrap non long ids with &#39; to have valid sql where clause](https://github.com/jhipster/generator-jhipster/pull/19463) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 weeks ago) (MERGED)
+- [fix incorrect eureka status message](https://github.com/jhipster/generator-jhipster/pull/19465) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 weeks ago) (MERGED)
+- [wrap non long ids with &#39; to have valid sql where clause](https://github.com/jhipster/generator-jhipster/pull/19463) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 weeks ago) (MERGED)
 
 #### 📜 My recent blog posts
 
 - [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (1 year ago)
-- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (1 year ago)
+- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (2 years ago)
 - [Creating a JHipster Playwright Blueprint - Part 1](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-1/) (2 years ago)
 - [Replace the login modal with a separate login page](https://atomfrede.gitlab.io/2019/11/replace-the-login-modal-with-a-separate-login-page/) (2 years ago)
 - [Setup Congstar DSL with TP-Link Archer VR600v](https://atomfrede.gitlab.io/2019/08/setup-congstar-dsl-with-tp-link-archer-vr600v/) (3 years ago)
