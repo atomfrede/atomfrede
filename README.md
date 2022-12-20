@@ -16,8 +16,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [casid/jte](https://github.com/casid/jte) ([2.2.4](https://github.com/casid/jte/releases/tag/2.2.4), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.23.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.23.0), 1 month ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.24.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.24.0), 4 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
+- [casid/jte](https://github.com/casid/jte) ([2.2.4](https://github.com/casid/jte/releases/tag/2.2.4), 3 weeks ago) - Secure and speedy templates for Java and Kotlin.
 - [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.0](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.0), 1 month ago) - Life&#39;s too short for running tests
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.8.4](https://github.com/bigskysoftware/htmx/releases/tag/v1.8.4), 1 month ago) - &lt;/&gt; htmx - high power tools for HTML
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.3](https://github.com/atomfrede/jadenticon/releases/tag/3.0.3), 1 month ago) - Java wrapper for jdenticon
@@ -40,7 +40,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Quarkus - the rising star](https://jug-pb.gitlab.io/blog/2022/quarkus-rising-star.html) (4 months ago)
+- [Quarkus - the rising star](https://jug-pb.gitlab.io/blog/2022/quarkus-rising-star.html) (5 months ago)
 - [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (2 years ago)
 - [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (2 years ago)
 
