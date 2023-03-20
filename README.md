@@ -8,7 +8,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step. (1 week ago)
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step. (2 weeks ago)
 - [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (1 month ago)
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (2 months ago)
 - [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) - Life&#39;s too short for running tests (4 months ago)
@@ -16,15 +16,15 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.29.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.29.0), 1 day ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.29.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.29.0), 6 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
 - [casid/jte](https://github.com/casid/jte) ([2.3.0](https://github.com/casid/jte/releases/tag/2.3.0), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
-- [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 2 weeks ago) - Life&#39;s too short for running tests
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.8.5](https://github.com/bigskysoftware/htmx/releases/tag/v1.8.5), 1 month ago) - &lt;/&gt; htmx - high power tools for HTML
+- [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 3 weeks ago) - Life&#39;s too short for running tests
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.8.5](https://github.com/bigskysoftware/htmx/releases/tag/v1.8.5), 2 months ago) - &lt;/&gt; htmx - high power tools for HTML
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 2 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix native container image configuration](https://github.com/jhipster/jhipster-lite/pull/5544) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (MERGED)
+- [fix native container image configuration](https://github.com/jhipster/jhipster-lite/pull/5544) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (2 weeks ago) (MERGED)
 - [add dedicated starter for spring boot 3](https://github.com/casid/jte/pull/195) on [casid/jte](https://github.com/casid/jte) (1 month ago) (MERGED)
 - [configure global jwt bearer auth for swagger documentation](https://github.com/jhipster/jhipster-lite/pull/4366) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (4 months ago) (OPEN)
 - [support mongock for reactive applications](https://github.com/jhipster/generator-jhipster/pull/20241) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 months ago) (MERGED)
@@ -40,7 +40,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Quarkus - the rising star](https://jug-pb.gitlab.io/blog/2022/quarkus-rising-star.html) (7 months ago)
+- [Quarkus - the rising star](https://jug-pb.gitlab.io/blog/2022/quarkus-rising-star.html) (8 months ago)
 - [Bis auf Weiteres keine Events der JUG](https://jug-pb.gitlab.io/blog/2020/covid-19.html) (3 years ago)
 - [Integrationtests with Testcontainers](https://jug-pb.gitlab.io/blog/2020/integrationtests-with-testcontainers.html) (3 years ago)
 
