@@ -9,14 +9,14 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👷 Check out what I'm currently working on
 
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (1 week ago)
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step. (4 weeks ago)
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step. (1 month ago)
 - [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (1 month ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 months ago)
 - [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) - Life&#39;s too short for running tests (4 months ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.30.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.30.0), 4 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.31.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.31.0), 2 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step.
 - [casid/jte](https://github.com/casid/jte) ([2.3.0](https://github.com/casid/jte/releases/tag/2.3.0), 1 month ago) - Secure and speedy templates for Java and Kotlin.
 - [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 1 month ago) - Life&#39;s too short for running tests
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.8.5](https://github.com/bigskysoftware/htmx/releases/tag/v1.8.5), 2 months ago) - &lt;/&gt; htmx - high power tools for HTML
@@ -24,9 +24,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix native container image configuration](https://github.com/jhipster/jhipster-lite/pull/5544) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (4 weeks ago) (MERGED)
-- [add dedicated starter for spring boot 3](https://github.com/casid/jte/pull/195) on [casid/jte](https://github.com/casid/jte) (1 month ago) (MERGED)
-- [configure global jwt bearer auth for swagger documentation](https://github.com/jhipster/jhipster-lite/pull/4366) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (4 months ago) (OPEN)
+- [fix native container image configuration](https://github.com/jhipster/jhipster-lite/pull/5544) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 month ago) (MERGED)
+- [add dedicated starter for spring boot 3](https://github.com/casid/jte/pull/195) on [casid/jte](https://github.com/casid/jte) (2 months ago) (MERGED)
+- [configure global jwt bearer auth for swagger documentation](https://github.com/jhipster/jhipster-lite/pull/4366) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (4 months ago) (CLOSED)
 - [support mongock for reactive applications](https://github.com/jhipster/generator-jhipster/pull/20241) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 months ago) (MERGED)
 - [correct gradle command used](https://github.com/maciejwalkowiak/yolo/pull/8) on [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) (4 months ago) (MERGED)
 
