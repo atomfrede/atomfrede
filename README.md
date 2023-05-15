@@ -8,9 +8,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 days ago)
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture. (1 week ago)
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture. (2 weeks ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (2 weeks ago)
 - [atomfrede/jte-spring-boot-starter](https://github.com/atomfrede/jte-spring-boot-starter) - A minimal spring boot starter for JTE template engine (1 month ago)
 - [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (3 months ago)
 
@@ -18,14 +18,14 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.9.2](https://github.com/bigskysoftware/htmx/releases/tag/v1.9.2), 1 week ago) - &lt;/&gt; htmx - high power tools for HTML
 - [casid/jte](https://github.com/casid/jte) ([2.3.2](https://github.com/casid/jte/releases/tag/2.3.2), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.32.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.32.0), 2 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.32.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.32.0), 3 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
 - [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 2 months ago) - Life&#39;s too short for running tests
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 4 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [update gradle wrapper to 8.1.1](https://github.com/jhipster/generator-jhipster/pull/22025) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 days ago) (MERGED)
-- [fix native hints for jgit integration](https://github.com/jhipster/jhipster-lite/pull/6105) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (MERGED)
+- [update gradle wrapper to 8.1.1](https://github.com/jhipster/generator-jhipster/pull/22025) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
+- [fix native hints for jgit integration](https://github.com/jhipster/jhipster-lite/pull/6105) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (2 weeks ago) (MERGED)
 - [Bumps org.liquibase.gradle from 2.1.1 to 2.2.0.](https://github.com/jhipster/generator-jhipster/pull/21749) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 - [update to gradle 8.0.2](https://github.com/jhipster/generator-jhipster/pull/21747) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 - [fix native container image configuration](https://github.com/jhipster/jhipster-lite/pull/5544) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (2 months ago) (MERGED)
@@ -40,7 +40,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Sicherheitslücken mit OWASP Dependency Check Plugin im Jenkins überwachen](https://jug-pb.gitlab.io/blog/2023/owasp.html) (5 days ago)
+- [Sicherheitslücken mit OWASP Dependency Check Plugin im Jenkins überwachen](https://jug-pb.gitlab.io/blog/2023/owasp.html) (1 week ago)
 - [Testcontainers and You](https://jug-pb.gitlab.io/blog/2023/testcontainers-and-you.html) (1 month ago)
 - [Quarkus - the rising star](https://jug-pb.gitlab.io/blog/2022/quarkus-rising-star.html) (9 months ago)
 
