@@ -9,17 +9,17 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👷 Check out what I'm currently working on
 
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 weeks ago)
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture. (3 weeks ago)
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (3 weeks ago)
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture. (3 weeks ago)
 - [atomfrede/jte-spring-boot-starter](https://github.com/atomfrede/jte-spring-boot-starter) - A minimal spring boot starter for JTE template engine (1 month ago)
 - [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.9.2](https://github.com/bigskysoftware/htmx/releases/tag/v1.9.2), 2 weeks ago) - &lt;/&gt; htmx - high power tools for HTML
-- [casid/jte](https://github.com/casid/jte) ([2.3.2](https://github.com/casid/jte/releases/tag/2.3.2), 3 weeks ago) - Secure and speedy templates for Java and Kotlin.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.32.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.32.0), 4 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
-- [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 2 months ago) - Life&#39;s too short for running tests
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.33.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.33.0), 4 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.9.2](https://github.com/bigskysoftware/htmx/releases/tag/v1.9.2), 3 weeks ago) - &lt;/&gt; htmx - high power tools for HTML
+- [casid/jte](https://github.com/casid/jte) ([2.3.2](https://github.com/casid/jte/releases/tag/2.3.2), 4 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 3 months ago) - Life&#39;s too short for running tests
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 4 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
