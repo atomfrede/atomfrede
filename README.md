@@ -16,9 +16,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.34.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.34.0), 5 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
+- [casid/jte](https://github.com/casid/jte) ([3.0.0](https://github.com/casid/jte/releases/tag/3.0.0), 1 day ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.34.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.34.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.9.2](https://github.com/bigskysoftware/htmx/releases/tag/v1.9.2), 1 month ago) - &lt;/&gt; htmx - high power tools for HTML
-- [casid/jte](https://github.com/casid/jte) ([2.3.2](https://github.com/casid/jte/releases/tag/2.3.2), 1 month ago) - Secure and speedy templates for Java and Kotlin.
 - [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 3 months ago) - Life&#39;s too short for running tests
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 5 months ago) - Java wrapper for jdenticon
 
@@ -40,7 +40,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Wieso helfen Code Guidelines?](https://jug-pb.gitlab.io/blog/2023/codeguidelines.html) (3 weeks ago)
+- [Wieso helfen Code Guidelines?](https://jug-pb.gitlab.io/blog/2023/codeguidelines.html) (1 month ago)
 - [Sicherheitslücken mit OWASP Dependency Check Plugin im Jenkins überwachen](https://jug-pb.gitlab.io/blog/2023/owasp.html) (1 month ago)
 - [Testcontainers and You](https://jug-pb.gitlab.io/blog/2023/testcontainers-and-you.html) (2 months ago)
 
