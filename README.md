@@ -12,23 +12,23 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 month ago)
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (2 months ago)
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture. (2 months ago)
-- [atomfrede/jte-spring-boot-starter](https://github.com/atomfrede/jte-spring-boot-starter) - A minimal spring boot starter for JTE template engine (2 months ago)
+- [atomfrede/jte-spring-boot-starter](https://github.com/atomfrede/jte-spring-boot-starter) - A minimal spring boot starter for JTE template engine (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.36.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.36.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
-- [casid/jte](https://github.com/casid/jte) ([3.0.0](https://github.com/casid/jte/releases/tag/3.0.0), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [casid/jte](https://github.com/casid/jte) ([3.0.1](https://github.com/casid/jte/releases/tag/3.0.1), 1 day ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.36.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.36.0), 2 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.9.2](https://github.com/bigskysoftware/htmx/releases/tag/v1.9.2), 2 months ago) - &lt;/&gt; htmx - high power tools for HTML
 - [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 4 months ago) - Life&#39;s too short for running tests
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 5 months ago) - Java wrapper for jdenticon
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 6 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
 - [prevent leakage of user information via api](https://github.com/jhipster/generator-jhipster/pull/22373) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 - [update gradle wrapper to 8.1.1](https://github.com/jhipster/generator-jhipster/pull/22025) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
 - [fix native hints for jgit integration](https://github.com/jhipster/jhipster-lite/pull/6105) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (2 months ago) (MERGED)
-- [Bumps org.liquibase.gradle from 2.1.1 to 2.2.0.](https://github.com/jhipster/generator-jhipster/pull/21749) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
-- [update to gradle 8.0.2](https://github.com/jhipster/generator-jhipster/pull/21747) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
+- [Bumps org.liquibase.gradle from 2.1.1 to 2.2.0.](https://github.com/jhipster/generator-jhipster/pull/21749) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 months ago) (MERGED)
+- [update to gradle 8.0.2](https://github.com/jhipster/generator-jhipster/pull/21747) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 months ago) (MERGED)
 
 #### 📜 My recent blog posts
 
