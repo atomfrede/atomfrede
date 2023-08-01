@@ -8,26 +8,26 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/open-rewrite-for-jhipster-lite-sample](https://github.com/atomfrede/open-rewrite-for-jhipster-lite-sample) - Sample on how to use open rewrite for certain tasks within jhipster lite (1 week ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (2 months ago)
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture. (2 months ago)
+- [atomfrede/open-rewrite-for-jhipster-lite-sample](https://github.com/atomfrede/open-rewrite-for-jhipster-lite-sample) - Sample on how to use open rewrite for certain tasks within jhipster lite (2 weeks ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 weeks ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (3 months ago)
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture. (3 months ago)
 - [atomfrede/jte-spring-boot-starter](https://github.com/atomfrede/jte-spring-boot-starter) - A minimal spring boot starter for JTE template engine (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.39.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.39.0), 1 day ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.9.3](https://github.com/bigskysoftware/htmx/releases/tag/v1.9.3), 1 week ago) - &lt;/&gt; htmx - high power tools for HTML
-- [casid/jte](https://github.com/casid/jte) ([3.0.1](https://github.com/casid/jte/releases/tag/3.0.1), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [casid/jte](https://github.com/casid/jte) ([3.0.2](https://github.com/casid/jte/releases/tag/3.0.2), 4 days ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.39.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.39.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.9.3](https://github.com/bigskysoftware/htmx/releases/tag/v1.9.3), 2 weeks ago) - &lt;/&gt; htmx - high power tools for HTML
 - [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 5 months ago) - Life&#39;s too short for running tests
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 6 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [prevent spotless from trying to handle generated sources](https://github.com/jhipster/generator-jhipster/pull/22846) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
-- [prevent leakage of user information via api](https://github.com/jhipster/generator-jhipster/pull/22373) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
+- [prevent spotless from trying to handle generated sources](https://github.com/jhipster/generator-jhipster/pull/22846) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
+- [prevent leakage of user information via api](https://github.com/jhipster/generator-jhipster/pull/22373) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
 - [update gradle wrapper to 8.1.1](https://github.com/jhipster/generator-jhipster/pull/22025) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 months ago) (MERGED)
-- [fix native hints for jgit integration](https://github.com/jhipster/jhipster-lite/pull/6105) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (2 months ago) (MERGED)
+- [fix native hints for jgit integration](https://github.com/jhipster/jhipster-lite/pull/6105) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (3 months ago) (MERGED)
 - [Bumps org.liquibase.gradle from 2.1.1 to 2.2.0.](https://github.com/jhipster/generator-jhipster/pull/21749) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 months ago) (MERGED)
 
 #### 📜 My recent blog posts
@@ -40,8 +40,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Joyful server-side full stack web development with Spring ViewComponent](https://jug-pb.gitlab.io/blog/2023/rapid-server-side-development.html) (1 week ago)
-- [Das ist doch behindert! Über Barrieren und Freiheit](https://jug-pb.gitlab.io/blog/2023/barriere-freiheit.html) (2 weeks ago)
+- [Joyful server-side full stack web development with Spring ViewComponent](https://jug-pb.gitlab.io/blog/2023/rapid-server-side-development.html) (2 weeks ago)
+- [Das ist doch behindert! Über Barrieren und Freiheit](https://jug-pb.gitlab.io/blog/2023/barriere-freiheit.html) (3 weeks ago)
 - [Wieso helfen Code Guidelines?](https://jug-pb.gitlab.io/blog/2023/codeguidelines.html) (2 months ago)
 
 #### 👯 I’m looking to collaborate on
