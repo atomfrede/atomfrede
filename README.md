@@ -8,17 +8,17 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/open-rewrite-for-jhipster-lite-sample](https://github.com/atomfrede/open-rewrite-for-jhipster-lite-sample) - Sample on how to use open rewrite for certain tasks within jhipster lite (4 weeks ago)
+- [atomfrede/application-insights-sample](https://github.com/atomfrede/application-insights-sample) -  (3 days ago)
+- [atomfrede/open-rewrite-for-jhipster-lite-sample](https://github.com/atomfrede/open-rewrite-for-jhipster-lite-sample) - Sample on how to use open rewrite for certain tasks within jhipster lite (1 month ago)
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 month ago)
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (3 months ago)
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture. (3 months ago)
-- [atomfrede/jte-spring-boot-starter](https://github.com/atomfrede/jte-spring-boot-starter) - A minimal spring boot starter for JTE template engine (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [casid/jte](https://github.com/casid/jte) ([3.0.3](https://github.com/casid/jte/releases/tag/3.0.3), 4 days ago) - Secure and speedy templates for Java and Kotlin.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) ([v1.9.4](https://github.com/bigskysoftware/htmx/releases/tag/v1.9.4), 1 week ago) - &lt;/&gt; htmx - high power tools for HTML
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.40.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.40.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
-- [casid/jte](https://github.com/casid/jte) ([3.0.2](https://github.com/casid/jte/releases/tag/3.0.2), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.40.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.40.0), 2 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture.
 - [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 5 months ago) - Life&#39;s too short for running tests
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 7 months ago) - Java wrapper for jdenticon
 
@@ -42,7 +42,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [Joyful server-side full stack web development with Spring ViewComponent](https://jug-pb.gitlab.io/blog/2023/rapid-server-side-development.html) (1 month ago)
 - [Das ist doch behindert! Über Barrieren und Freiheit](https://jug-pb.gitlab.io/blog/2023/barriere-freiheit.html) (1 month ago)
-- [Wieso helfen Code Guidelines?](https://jug-pb.gitlab.io/blog/2023/codeguidelines.html) (2 months ago)
+- [Wieso helfen Code Guidelines?](https://jug-pb.gitlab.io/blog/2023/codeguidelines.html) (3 months ago)
 
 #### 👯 I’m looking to collaborate on
 
