@@ -8,26 +8,26 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (2 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 days ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (4 days ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
 - [jhipster/jp](https://github.com/jhipster/jp) - Japanese version of the jhipster.tech website (1 month ago)
-- [atomfrede/application-insights-sample](https://github.com/atomfrede/application-insights-sample) -  (2 months ago)
-- [atomfrede/open-rewrite-for-jhipster-lite-sample](https://github.com/atomfrede/open-rewrite-for-jhipster-lite-sample) - Sample on how to use open rewrite for certain tasks within jhipster lite (3 months ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.44.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.44.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [casid/jte](https://github.com/casid/jte) ([3.1.2](https://github.com/casid/jte/releases/tag/3.1.2), 1 week ago) - Secure and speedy templates for Java and Kotlin.
-- [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 7 months ago) - Life&#39;s too short for running tests
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.45.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.45.0), 5 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [casid/jte](https://github.com/casid/jte) ([3.1.3](https://github.com/casid/jte/releases/tag/3.1.3), 5 days ago) - Secure and speedy templates for Java and Kotlin.
+- [maciejwalkowiak/yolo](https://github.com/maciejwalkowiak/yolo) ([v0.3.1](https://github.com/maciejwalkowiak/yolo/releases/tag/v0.3.1), 8 months ago) - Life&#39;s too short for running tests
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 9 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
+- [do not hide registration errors (login/email already used)](https://github.com/jhipster/generator-jhipster/pull/23940) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 days ago) (MERGED)
+- [:arrow_up: update gradle plugin version](https://github.com/atomfrede/jadenticon/pull/27) on [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) (5 days ago) (MERGED)
+- [:arrow_up: update gradle version](https://github.com/atomfrede/jadenticon/pull/26) on [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) (5 days ago) (MERGED)
 - [add htmx workshop proposal](https://github.com/ijug-ev/JavaLand/pull/40) on [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand) (3 weeks ago) (OPEN)
 - [prevent spotless from trying to handle generated sources](https://github.com/jhipster/generator-jhipster/pull/22846) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 months ago) (MERGED)
-- [prevent leakage of user information via api](https://github.com/jhipster/generator-jhipster/pull/22373) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 months ago) (MERGED)
-- [update gradle wrapper to 8.1.1](https://github.com/jhipster/generator-jhipster/pull/22025) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 months ago) (MERGED)
-- [fix native hints for jgit integration](https://github.com/jhipster/jhipster-lite/pull/6105) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (5 months ago) (MERGED)
 
 #### 📜 My recent blog posts
 
@@ -39,7 +39,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Spieglein, Spieglein: Was tippe ich als Nächstes?](https://jug-pb.gitlab.io/blog/2023/autosuggest.html) (1 week ago)
+- [Spieglein, Spieglein: Was tippe ich als Nächstes?](https://jug-pb.gitlab.io/blog/2023/autosuggest.html) (2 weeks ago)
 - [Java Next - Von Amber bis Loom, von Panama bis Valhalla](https://jug-pb.gitlab.io/blog/2023/java-next.html) (1 month ago)
 - [Joyful server-side full stack web development with Spring ViewComponent](https://jug-pb.gitlab.io/blog/2023/rapid-server-side-development.html) (3 months ago)
 
