@@ -8,21 +8,21 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (4 weeks ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (4 weeks ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 month ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 month ago)
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (1 month ago)
 - [jhipster/jp](https://github.com/jhipster/jp) - Japanese version of the jhipster.tech website (2 months ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.48.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.48.0), 2 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [casid/jte](https://github.com/casid/jte) ([3.1.4](https://github.com/casid/jte/releases/tag/3.1.4), 3 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v0.49.0](https://github.com/jhipster/jhipster-lite/releases/tag/v0.49.0), 2 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [casid/jte](https://github.com/casid/jte) ([3.1.5](https://github.com/casid/jte/releases/tag/3.1.5), 4 days ago) - Secure and speedy templates for Java and Kotlin.
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 10 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [do not hide registration errors (login/email already used)](https://github.com/jhipster/generator-jhipster/pull/23940) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 weeks ago) (MERGED)
+- [do not hide registration errors (login/email already used)](https://github.com/jhipster/generator-jhipster/pull/23940) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 - [:arrow_up: update gradle plugin version](https://github.com/atomfrede/jadenticon/pull/27) on [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) (1 month ago) (MERGED)
 - [:arrow_up: update gradle version](https://github.com/atomfrede/jadenticon/pull/26) on [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) (1 month ago) (MERGED)
 - [add htmx workshop proposal](https://github.com/ijug-ev/JavaLand/pull/40) on [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand) (1 month ago) (OPEN)
@@ -38,7 +38,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Data Pipeline Plumbing](https://jug-pb.gitlab.io/blog/2023/data-pipeline-plumbing.html) (2 weeks ago)
+- [Data Pipeline Plumbing](https://jug-pb.gitlab.io/blog/2023/data-pipeline-plumbing.html) (3 weeks ago)
 - [Spieglein, Spieglein: Was tippe ich als Nächstes?](https://jug-pb.gitlab.io/blog/2023/autosuggest.html) (1 month ago)
 - [Java Next - Von Amber bis Loom, von Panama bis Valhalla](https://jug-pb.gitlab.io/blog/2023/java-next.html) (2 months ago)
 
