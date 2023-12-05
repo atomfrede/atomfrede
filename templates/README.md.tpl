@@ -7,42 +7,41 @@ I'm Frederik and working mostly on [JHipster related stuff](https://github.com/j
 Together with [Thorben](https://github.com/thjanssen) I organize the meetings of our local [Java User Group](https://github.com/jugpaderborn) in Paderborn.
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
+{{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 5}}
+{{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}}) ({{.State}})
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://atomfrede.gitlab.io/index.xml" 5}}
+{{range rss "https://atomfrede.gitlab.io/index.xml" 2}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📜 JUG Paderborn's recent blog posts
-{{range rss "https://jug-pb.gitlab.io/feed.xml" 3}}
+{{range rss "https://jug-pb.gitlab.io/feed.xml" 2}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 👯 I’m looking to collaborate on
 
-- [Microfrontends with JHipster](https://github.com/jhipster/generator-jhipster/issues/10189)
-- [JHipster 7 for Micronaut](https://github.com/jhipster/generator-jhipster-micronaut/issues/250)
+- [Thymeleaf, HTMX for JHipster Lite](https://github.com/jhipster/jhipster-lite/issues/4339)
+- [Playwright Blueprint for JHipster]https://github.com/jhipster/generator-jhipster/issues/13755)
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/atomfrede
 - Fediverse: https://mastodon.social/@atomfrede
 - Blog: https://atomfrede.gitlab.io/
 
 #### 📫 How to reach JUG Paderborn
 
-- Twitter: https://twitter.com/jugpaderborn
+- Fediverse: https://ijug.social/@jugpaderborn
 - Blog: https://jug-pb.gitlab.io/
