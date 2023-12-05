@@ -37,7 +37,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👯 I’m looking to collaborate on
 
 - [Thymeleaf, HTMX for JHipster Lite](https://github.com/jhipster/jhipster-lite/issues/4339)
-- [Playwright Blueprint for JHipster]https://github.com/jhipster/generator-jhipster/issues/13755)
+- [Playwright Blueprint for JHipster](https://github.com/jhipster/generator-jhipster/issues/13755)
 
 #### 📫 How to reach me
 
