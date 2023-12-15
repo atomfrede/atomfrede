@@ -8,21 +8,21 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/jhipster-gradle-improvements](https://github.com/atomfrede/jhipster-gradle-improvements) - https://github.com/jhipster/generator-jhipster/issues/19615 (1 day ago)
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem: (2 days ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (3 days ago)
+- [atomfrede/jhipster-gradle-improvements](https://github.com/atomfrede/jhipster-gradle-improvements) - https://github.com/jhipster/generator-jhipster/issues/19615 (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [casid/jte](https://github.com/casid/jte) ([3.1.6](https://github.com/casid/jte/releases/tag/3.1.6), 2 days ago) - Secure and speedy templates for Java and Kotlin.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.1.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.1.0), 3 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [casid/jte](https://github.com/casid/jte) ([3.1.6](https://github.com/casid/jte/releases/tag/3.1.6), 1 week ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.1.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.1.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 11 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [updates InternationalizedErrors module depenency](https://github.com/jhipster/jhipster-lite/pull/8329) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 day ago) (OPEN)
-- [add missing dependencies for dependabot](https://github.com/jhipster/jhipster-lite/pull/8328) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (2 days ago) (MERGED)
-- [add webjars thymeleaf template modules](https://github.com/jhipster/jhipster-lite/pull/8327) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (2 days ago) (OPEN)
+- [[gradle] generate initial files for convention plugin usage](https://github.com/jhipster/generator-jhipster/pull/24551) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 days ago) (MERGED)
+- [[gradle] cleanup javax.validation usage](https://github.com/jhipster/generator-jhipster/pull/24535) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 days ago) (MERGED)
+- [Handle Angular navigation errors](https://github.com/jhipster/generator-jhipster/pull/24517) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (MERGED)
 
 #### 📜 My recent blog posts
 
