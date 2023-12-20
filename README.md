@@ -9,8 +9,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👷 Check out what I'm currently working on
 
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 day ago)
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (3 days ago)
-- [atomfrede/jhipster-gradle-improvements](https://github.com/atomfrede/jhipster-gradle-improvements) - https://github.com/jhipster/generator-jhipster/issues/19615 (5 days ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 day ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -20,9 +20,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [[gradle] generate initial files for convention plugin usage](https://github.com/jhipster/generator-jhipster/pull/24551) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 days ago) (MERGED)
-- [[gradle] cleanup javax.validation usage](https://github.com/jhipster/generator-jhipster/pull/24535) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 days ago) (MERGED)
-- [Handle Angular navigation errors](https://github.com/jhipster/generator-jhipster/pull/24517) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (5 days ago) (MERGED)
+- [[gradle] add gradle cucumber convention plugin](https://github.com/jhipster/generator-jhipster/pull/24615) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 day ago) (MERGED)
+- [update some deployment options and the current state in v8](https://github.com/jhipster/jhipster.github.io/pull/1328) on [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) (1 day ago) (MERGED)
+- [gradle gatling convention plugin](https://github.com/jhipster/generator-jhipster/pull/24584) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (4 days ago) (MERGED)
 
 #### 📜 My recent blog posts
 
