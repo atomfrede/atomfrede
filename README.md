@@ -8,8 +8,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) - Java rate limiting library based on token-bucket algorithm. (3 days ago)
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (5 days ago)
+- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) - Java rate limiting library based on token-bucket algorithm. (4 days ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (6 days ago)
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -20,7 +20,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [correct wording in jdbc docs](https://github.com/bucket4j/bucket4j/pull/436) on [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) (3 days ago) (MERGED)
+- [correct wording in jdbc docs](https://github.com/bucket4j/bucket4j/pull/436) on [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) (4 days ago) (MERGED)
 - [extract gradle jib config to dedicated conventions plugin](https://github.com/jhipster/generator-jhipster/pull/24715) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
 - [replace gradle apply from cache with cache convention plugin](https://github.com/jhipster/generator-jhipster/pull/24700) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 week ago) (MERGED)
 
