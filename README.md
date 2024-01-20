@@ -8,9 +8,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) - Java rate limiting library based on token-bucket algorithm. (1 week ago)
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (1 week ago)
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures. (2 weeks ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (5 days ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (5 days ago)
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem: (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -20,8 +20,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [add gradle git properties plugin](https://github.com/jhipster/jhipster-lite/pull/8623) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 day ago) (OPEN)
-- [correct wording in jdbc docs](https://github.com/bucket4j/bucket4j/pull/436) on [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) (1 week ago) (MERGED)
+- [add gradle git properties plugin](https://github.com/jhipster/jhipster-lite/pull/8623) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (6 days ago) (MERGED)
+- [correct wording in jdbc docs](https://github.com/bucket4j/bucket4j/pull/436) on [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) (2 weeks ago) (MERGED)
 - [extract gradle jib config to dedicated conventions plugin](https://github.com/jhipster/generator-jhipster/pull/24715) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 weeks ago) (MERGED)
 
 #### 📜 My recent blog posts
@@ -31,8 +31,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Es muss nicht immer Microservice sein: Architekturen im Vergleich](https://jug-pb.gitlab.io/blog/2024/microservice-architecturen.html) (1 day ago)
-- [Automated Refactorings](https://jug-pb.gitlab.io/blog/2023/automated-refactorings.html) (3 weeks ago)
+- [Alles neu macht Hibernate 6](https://jug-pb.gitlab.io/blog/2024/hibernate-6.html) (5 days ago)
+- [Es muss nicht immer Microservice sein: Architekturen im Vergleich](https://jug-pb.gitlab.io/blog/2024/microservice-architecturen.html) (6 days ago)
 
 #### 👯 I’m looking to collaborate on
 
