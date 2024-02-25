@@ -8,14 +8,14 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (1 day ago)
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (1 week ago)
-- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 month ago)
+- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (3 days ago)
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (4 days ago)
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.8.0](https://github.com/bucket4j/bucket4j/releases/tag/8.8.0), 1 week ago) - Java rate limiting library based on token-bucket algorithm.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.4.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.4.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.9.0](https://github.com/bucket4j/bucket4j/releases/tag/8.9.0), 1 day ago) - Java rate limiting library based on token-bucket algorithm.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.4.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.4.0), 2 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 1 year ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
