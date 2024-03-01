@@ -8,21 +8,18 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (3 days ago)
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (4 days ago)
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (2 weeks ago)
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (4 days ago)
+- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (1 week ago)
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.9.0](https://github.com/bucket4j/bucket4j/releases/tag/8.9.0), 1 day ago) - Java rate limiting library based on token-bucket algorithm.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.4.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.4.0), 2 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.5.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.5.0), 2 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.9.0](https://github.com/bucket4j/bucket4j/releases/tag/8.9.0), 6 days ago) - Java rate limiting library based on token-bucket algorithm.
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 1 year ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
-- [add gradle git properties plugin](https://github.com/jhipster/jhipster-lite/pull/8623) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 month ago) (MERGED)
-- [correct wording in jdbc docs](https://github.com/bucket4j/bucket4j/pull/436) on [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) (1 month ago) (MERGED)
-- [extract gradle jib config to dedicated conventions plugin](https://github.com/jhipster/generator-jhipster/pull/24715) on [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (1 month ago) (MERGED)
 
 #### 📜 My recent blog posts
 
