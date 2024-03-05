@@ -8,23 +8,24 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (4 days ago)
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (1 week ago)
 - [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (1 week ago)
 - [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.5.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.5.0), 2 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.9.0](https://github.com/bucket4j/bucket4j/releases/tag/8.9.0), 6 days ago) - Java rate limiting library based on token-bucket algorithm.
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.4](https://github.com/atomfrede/jadenticon/releases/tag/3.0.4), 1 year ago) - Java wrapper for jdenticon
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.0.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.0.0), 1 day ago) - 
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.5.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.5.0), 6 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.9.0](https://github.com/bucket4j/bucket4j/releases/tag/8.9.0), 1 week ago) - Java rate limiting library based on token-bucket algorithm.
 
 #### 🔨 Latest Pull Requests I published
 
+- [add develocity integration](https://github.com/jhipster/jhipster-lite/pull/9119) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 day ago) (OPEN)
 
 #### 📜 My recent blog posts
 
 - [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (2 years ago)
-- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (2 years ago)
+- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (3 years ago)
 
 #### 📜 JUG Paderborn's recent blog posts
 
