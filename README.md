@@ -9,18 +9,18 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👷 Check out what I'm currently working on
 
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem: (1 week ago)
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (1 week ago)
-- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (2 weeks ago)
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (2 weeks ago)
+- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.0.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.0.0), 6 days ago) - 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.5.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.5.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.0.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.0.0), 1 week ago) - 
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.5.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.5.0), 2 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.9.0](https://github.com/bucket4j/bucket4j/releases/tag/8.9.0), 2 weeks ago) - Java rate limiting library based on token-bucket algorithm.
 
 #### 🔨 Latest Pull Requests I published
 
-- [add develocity integration](https://github.com/jhipster/jhipster-lite/pull/9119) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (6 days ago) (MERGED)
+- [add develocity integration](https://github.com/jhipster/jhipster-lite/pull/9119) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (MERGED)
 
 #### 📜 My recent blog posts
 
@@ -29,8 +29,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Alles neu macht Hibernate 6](https://jug-pb.gitlab.io/blog/2024/hibernate-6.html) (1 month ago)
-- [Es muss nicht immer Microservice sein: Architekturen im Vergleich](https://jug-pb.gitlab.io/blog/2024/microservice-architecturen.html) (1 month ago)
+- [A Passwordless Future!](https://jug-pb.gitlab.io/blog/2024/passkeys-for-java-developers.html) (3 days ago)
+- [Alles neu macht Hibernate 6](https://jug-pb.gitlab.io/blog/2024/hibernate-6.html) (2 months ago)
 
 #### 👯 I’m looking to collaborate on
 
