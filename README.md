@@ -8,13 +8,13 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (3 weeks ago)
+- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (4 weeks ago)
 - [atomfrede/htmx-and-java-land](https://github.com/atomfrede/htmx-and-java-land) - Community Workshop Sources for HTMX and Java at Javaland 2024 (1 month ago)
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) - Java wrapper for jdenticon (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.12.0](https://github.com/bucket4j/bucket4j/releases/tag/8.12.0), 1 week ago) - Java rate limiting library based on token-bucket algorithm.
+- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.12.0](https://github.com/bucket4j/bucket4j/releases/tag/8.12.0), 2 weeks ago) - Java rate limiting library based on token-bucket algorithm.
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.5](https://github.com/atomfrede/jadenticon/releases/tag/3.0.5), 1 month ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
@@ -27,8 +27,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Work harder, not smarter](https://jug-pb.gitlab.io/blog/2024/word-harder-not-smarter.html) (1 day ago)
-- [Spring Modulith](https://jug-pb.gitlab.io/blog/2024/spring-modulith.html) (1 week ago)
+- [Work harder, not smarter](https://jug-pb.gitlab.io/blog/2024/word-harder-not-smarter.html) (6 days ago)
+- [Spring Modulith](https://jug-pb.gitlab.io/blog/2024/spring-modulith.html) (2 weeks ago)
 
 #### 👯 I’m looking to collaborate on
 
