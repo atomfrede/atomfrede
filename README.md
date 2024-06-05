@@ -9,19 +9,19 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👷 Check out what I'm currently working on
 
 - [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (1 week ago)
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem: (1 week ago)
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem: (2 weeks ago)
 - [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.5.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.5.0), 1 day ago) - JHipster BOM and server-side library
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.3.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.3.0), 2 weeks ago) - Micronaut blueprint for JHipster
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.5.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.5.0), 5 days ago) - JHipster BOM and server-side library
 - [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.12.0](https://github.com/bucket4j/bucket4j/releases/tag/8.12.0), 1 month ago) - Java rate limiting library based on token-bucket algorithm.
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.5](https://github.com/atomfrede/jadenticon/releases/tag/3.0.5), 2 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
 - [migrate to gradle develocity maven extension](https://github.com/jhipster/jhipster-bom/pull/1587) on [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) (1 week ago) (MERGED)
-- [adapt native jgit hints for latest jgit releases](https://github.com/jhipster/jhipster-lite/pull/9872) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (1 week ago) (MERGED)
+- [adapt native jgit hints for latest jgit releases](https://github.com/jhipster/jhipster-lite/pull/9872) on [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) (2 weeks ago) (MERGED)
 
 #### 📜 My recent blog posts
 
