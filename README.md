@@ -14,8 +14,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.6.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.6.0), 1 week ago) - JHipster BOM and server-side library
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.13.0](https://github.com/bucket4j/bucket4j/releases/tag/8.13.0), 3 weeks ago) - Java rate limiting library based on token-bucket algorithm.
+- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.13.0](https://github.com/bucket4j/bucket4j/releases/tag/8.13.0), 4 weeks ago) - Java rate limiting library based on token-bucket algorithm.
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.5](https://github.com/atomfrede/jadenticon/releases/tag/3.0.5), 3 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
