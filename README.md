@@ -14,7 +14,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.13.0](https://github.com/bucket4j/bucket4j/releases/tag/8.13.0), 4 weeks ago) - Java rate limiting library based on token-bucket algorithm.
+- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.13.0](https://github.com/bucket4j/bucket4j/releases/tag/8.13.0), 1 month ago) - Java rate limiting library based on token-bucket algorithm.
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.5](https://github.com/atomfrede/jadenticon/releases/tag/3.0.5), 3 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
@@ -28,7 +28,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 📜 JUG Paderborn's recent blog posts
 
 - [Organizing, Decluttering, Dan-Sha-Ri – Ordnungstrends für Repositories](https://jug-pb.gitlab.io/blog/2024/organizing.html) (1 month ago)
-- [Work harder, not smarter](https://jug-pb.gitlab.io/blog/2024/word-harder-not-smarter.html) (1 month ago)
+- [Work harder, not smarter](https://jug-pb.gitlab.io/blog/2024/word-harder-not-smarter.html) (2 months ago)
 
 #### 👯 I’m looking to collaborate on
 
