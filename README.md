@@ -10,7 +10,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (1 month ago)
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem: (1 month ago)
-- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (2 months ago)
+- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
