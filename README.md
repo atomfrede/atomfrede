@@ -14,8 +14,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.13.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.13.0), 1 day ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.13.0](https://github.com/bucket4j/bucket4j/releases/tag/8.13.0), 1 month ago) - Java rate limiting library based on token-bucket algorithm.
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.5](https://github.com/atomfrede/jadenticon/releases/tag/3.0.5), 3 months ago) - Java wrapper for jdenticon
+- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.5](https://github.com/atomfrede/jadenticon/releases/tag/3.0.5), 4 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
 
