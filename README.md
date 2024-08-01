@@ -27,8 +27,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Auth{N,Z}: OAuth2, OpenID Connect und JWT einfach erklärt](https://jug-pb.gitlab.io/blog/2024/oauth.html) (3 weeks ago)
-- [Organizing, Decluttering, Dan-Sha-Ri – Ordnungstrends für Repositories](https://jug-pb.gitlab.io/blog/2024/organizing.html) (1 month ago)
+- [Zurück in die Zukunft! Zeitreisen mit bitemporalen Datenbanken](https://jug-pb.gitlab.io/blog/2024/back-to-the-future.html) (1 week ago)
+- [Auth{N,Z}: OAuth2, OpenID Connect und JWT einfach erklärt](https://jug-pb.gitlab.io/blog/2024/oauth.html) (1 month ago)
 
 #### 👯 I’m looking to collaborate on
 
