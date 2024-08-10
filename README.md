@@ -14,7 +14,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.13.0](https://github.com/bucket4j/bucket4j/releases/tag/8.13.0), 1 month ago) - Java rate limiting library based on token-bucket algorithm.
+- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.13.0](https://github.com/bucket4j/bucket4j/releases/tag/8.13.0), 2 months ago) - Java rate limiting library based on token-bucket algorithm.
 - [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.5](https://github.com/atomfrede/jadenticon/releases/tag/3.0.5), 4 months ago) - Java wrapper for jdenticon
 
 #### 🔨 Latest Pull Requests I published
@@ -27,7 +27,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Zurück in die Zukunft! Zeitreisen mit bitemporalen Datenbanken](https://jug-pb.gitlab.io/blog/2024/back-to-the-future.html) (1 week ago)
+- [Zurück in die Zukunft! Zeitreisen mit bitemporalen Datenbanken](https://jug-pb.gitlab.io/blog/2024/back-to-the-future.html) (2 weeks ago)
 - [Auth{N,Z}: OAuth2, OpenID Connect und JWT einfach erklärt](https://jug-pb.gitlab.io/blog/2024/oauth.html) (1 month ago)
 
 #### 👯 I’m looking to collaborate on
