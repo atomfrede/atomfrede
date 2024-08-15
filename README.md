@@ -8,9 +8,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
+- [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (2 days ago)
 - [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (2 months ago)
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem: (2 months ago)
-- [atomfrede/slides-howl-at-the-moon](https://github.com/atomfrede/slides-howl-at-the-moon) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -19,6 +19,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
+- [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (2 days ago) (MERGED)
 
 #### 📜 My recent blog posts
 
@@ -27,7 +28,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Zurück in die Zukunft! Zeitreisen mit bitemporalen Datenbanken](https://jug-pb.gitlab.io/blog/2024/back-to-the-future.html) (2 weeks ago)
+- [Zurück in die Zukunft! Zeitreisen mit bitemporalen Datenbanken](https://jug-pb.gitlab.io/blog/2024/back-to-the-future.html) (3 weeks ago)
 - [Auth{N,Z}: OAuth2, OpenID Connect und JWT einfach erklärt](https://jug-pb.gitlab.io/blog/2024/oauth.html) (1 month ago)
 
 #### 👯 I’m looking to collaborate on
