@@ -8,17 +8,21 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (1 week ago)
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (2 months ago)
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem: (3 months ago)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (1 week ago)
+- [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (2 months ago)
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) ([8.14.0](https://github.com/bucket4j/bucket4j/releases/tag/8.14.0), 2 days ago) - Java rate limiting library based on token-bucket algorithm.
-- [atomfrede/jadenticon](https://github.com/atomfrede/jadenticon) ([3.0.5](https://github.com/atomfrede/jadenticon/releases/tag/3.0.5), 5 months ago) - Java wrapper for jdenticon
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.20.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.20.0), 3 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [casid/jte](https://github.com/casid/jte) ([3.1.13](https://github.com/casid/jte/releases/tag/3.1.13), 1 week ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v8.7.1](https://github.com/jhipster/generator-jhipster/releases/tag/v8.7.1), 3 weeks ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
 
 #### 🔨 Latest Pull Requests I published
 
+- [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (2 months ago) (MERGED)
+- [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (2 months ago) (OPEN)
+- [migrate to gradle develocity maven extension](https://github.com/jhipster/jhipster-bom/pull/1587) on [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) (4 months ago) (MERGED)
 
 #### 📜 My recent blog posts
 
@@ -27,8 +31,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Zurück in die Zukunft! Zeitreisen mit bitemporalen Datenbanken](https://jug-pb.gitlab.io/blog/2024/back-to-the-future.html) (3 weeks ago)
-- [Auth{N,Z}: OAuth2, OpenID Connect und JWT einfach erklärt](https://jug-pb.gitlab.io/blog/2024/oauth.html) (1 month ago)
+- [Architektur-Kata: Verbessere deine Fähigkeiten in der Softwarearchitektur](https://jug-pb.gitlab.io/blog/2024/architektur-kata.html) (5 days ago)
+- [Zurück in die Zukunft! Zeitreisen mit bitemporalen Datenbanken](https://jug-pb.gitlab.io/blog/2024/back-to-the-future.html) (2 months ago)
 
 #### 👯 I’m looking to collaborate on
 
