@@ -8,15 +8,15 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (4 weeks ago)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (1 month ago)
 - [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (2 months ago)
 - [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.5.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.5.0), 4 days ago) - Micronaut blueprint for JHipster
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v8.7.3](https://github.com/jhipster/generator-jhipster/releases/tag/v8.7.3), 6 days ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.7.2](https://github.com/jhipster/jhipster-bom/releases/tag/8.7.2), 1 week ago) - JHipster BOM and server-side library
+- [casid/jte](https://github.com/casid/jte) ([3.1.14](https://github.com/casid/jte/releases/tag/3.1.14), 2 days ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.5.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.5.0), 1 week ago) - Micronaut blueprint for JHipster
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v8.7.3](https://github.com/jhipster/generator-jhipster/releases/tag/v8.7.3), 1 week ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -31,8 +31,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [ArchUnit: Unit-Tests für deine Java-Architektur](https://jug-pb.gitlab.io/blog/2024/archunit.html) (2 weeks ago)
-- [Architektur-Kata: Verbessere deine Fähigkeiten in der Softwarearchitektur](https://jug-pb.gitlab.io/blog/2024/architektur-kata.html) (3 weeks ago)
+- [ArchUnit: Unit-Tests für deine Java-Architektur](https://jug-pb.gitlab.io/blog/2024/archunit.html) (3 weeks ago)
+- [Architektur-Kata: Verbessere deine Fähigkeiten in der Softwarearchitektur](https://jug-pb.gitlab.io/blog/2024/architektur-kata.html) (1 month ago)
 
 #### 👯 I’m looking to collaborate on
 
