@@ -9,19 +9,19 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 👷 Check out what I'm currently working on
 
 - [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (1 month ago)
-- [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (2 months ago)
+- [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (3 months ago)
 - [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [casid/jte](https://github.com/casid/jte) ([3.1.14](https://github.com/casid/jte/releases/tag/3.1.14), 2 days ago) - Secure and speedy templates for Java and Kotlin.
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.5.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.5.0), 1 week ago) - Micronaut blueprint for JHipster
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v8.7.3](https://github.com/jhipster/generator-jhipster/releases/tag/v8.7.3), 1 week ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.22.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.22.0), 4 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [casid/jte](https://github.com/casid/jte) ([3.1.14](https://github.com/casid/jte/releases/tag/3.1.14), 1 week ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.5.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.5.0), 2 weeks ago) - Micronaut blueprint for JHipster
 
 #### 🔨 Latest Pull Requests I published
 
-- [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (2 months ago) (MERGED)
-- [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (2 months ago) (OPEN)
+- [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (3 months ago) (MERGED)
+- [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (3 months ago) (OPEN)
 - [migrate to gradle develocity maven extension](https://github.com/jhipster/jhipster-bom/pull/1587) on [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) (5 months ago) (MERGED)
 
 #### 📜 My recent blog posts
