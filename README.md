@@ -16,7 +16,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [casid/jte](https://github.com/casid/jte) ([3.1.15](https://github.com/casid/jte/releases/tag/3.1.15), 1 week ago) - Secure and speedy templates for Java and Kotlin.
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.22.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.22.0), 2 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.5.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.5.0), 3 weeks ago) - Micronaut blueprint for JHipster
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.5.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.5.0), 1 month ago) - Micronaut blueprint for JHipster
 
 #### 🔨 Latest Pull Requests I published
 
