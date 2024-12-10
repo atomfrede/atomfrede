@@ -8,14 +8,14 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (1 month ago)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (2 months ago)
 - [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (3 months ago)
 - [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [casid/jte](https://github.com/casid/jte) ([3.1.15](https://github.com/casid/jte/releases/tag/3.1.15), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.22.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.22.0), 3 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.23.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.23.0), 1 day ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [casid/jte](https://github.com/casid/jte) ([3.1.15](https://github.com/casid/jte/releases/tag/3.1.15), 3 weeks ago) - Secure and speedy templates for Java and Kotlin.
 - [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.5.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.5.0), 1 month ago) - Micronaut blueprint for JHipster
 
 #### 🔨 Latest Pull Requests I published
@@ -32,7 +32,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 📜 JUG Paderborn's recent blog posts
 
 - [ArchUnit: Unit-Tests für deine Java-Architektur](https://jug-pb.gitlab.io/blog/2024/archunit.html) (1 month ago)
-- [Architektur-Kata: Verbessere deine Fähigkeiten in der Softwarearchitektur](https://jug-pb.gitlab.io/blog/2024/architektur-kata.html) (1 month ago)
+- [Architektur-Kata: Verbessere deine Fähigkeiten in der Softwarearchitektur](https://jug-pb.gitlab.io/blog/2024/architektur-kata.html) (2 months ago)
 
 #### 👯 I’m looking to collaborate on
 
