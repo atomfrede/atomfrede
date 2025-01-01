@@ -14,9 +14,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.6.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.6.0), 1 day ago) - Micronaut blueprint for JHipster
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.24.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.24.0), 1 day ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v8.8.0](https://github.com/jhipster/generator-jhipster/releases/tag/v8.8.0), 2 days ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.6.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.6.0), 1 week ago) - Micronaut blueprint for JHipster
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.24.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.24.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) ([v8.8.0](https://github.com/jhipster/generator-jhipster/releases/tag/v8.8.0), 1 week ago) - JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.
 
 #### 🔨 Latest Pull Requests I published
 
