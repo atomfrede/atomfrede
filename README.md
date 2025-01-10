@@ -8,20 +8,20 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (2 months ago)
-- [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (4 months ago)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (3 months ago)
+- [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (5 months ago)
 - [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) - JHipster BOM and server-side library (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.6.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.6.0), 1 week ago) - Micronaut blueprint for JHipster
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.24.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.24.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.8.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.8.0), 1 week ago) - JHipster BOM and server-side library
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.6.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.6.0), 2 weeks ago) - Micronaut blueprint for JHipster
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.24.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.24.0), 2 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.8.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.8.0), 2 weeks ago) - JHipster BOM and server-side library
 
 #### 🔨 Latest Pull Requests I published
 
-- [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (4 months ago) (MERGED)
-- [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (4 months ago) (OPEN)
+- [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (5 months ago) (MERGED)
+- [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (5 months ago) (OPEN)
 - [migrate to gradle develocity maven extension](https://github.com/jhipster/jhipster-bom/pull/1587) on [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) (7 months ago) (MERGED)
 
 #### 📜 My recent blog posts
@@ -31,8 +31,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
+- [Annotation Processing, brauche ich das?](https://jug-pb.gitlab.io/blog/2025/annotation-processing.html) (4 days ago)
 - [ArchUnit: Unit-Tests für deine Java-Architektur](https://jug-pb.gitlab.io/blog/2024/archunit.html) (2 months ago)
-- [Architektur-Kata: Verbessere deine Fähigkeiten in der Softwarearchitektur](https://jug-pb.gitlab.io/blog/2024/architektur-kata.html) (2 months ago)
 
 #### 👯 I’m looking to collaborate on
 
