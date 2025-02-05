@@ -8,14 +8,14 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (2 days ago)
-- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (3 months ago)
-- [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) - Web site of the MapStruct project (5 months ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 day ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 days ago)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.26.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.26.0), 1 day ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [casid/jte](https://github.com/casid/jte) ([3.1.16](https://github.com/casid/jte/releases/tag/3.1.16), 2 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.26.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.26.0), 5 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [casid/jte](https://github.com/casid/jte) ([3.1.16](https://github.com/casid/jte/releases/tag/3.1.16), 3 weeks ago) - Secure and speedy templates for Java and Kotlin.
 - [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.6.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.6.0), 1 month ago) - Micronaut blueprint for JHipster
 
 #### 🔨 Latest Pull Requests I published
@@ -31,8 +31,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Annotation Processing, brauche ich das?](https://jug-pb.gitlab.io/blog/2025/annotation-processing.html) (3 weeks ago)
-- [ArchUnit: Unit-Tests für deine Java-Architektur](https://jug-pb.gitlab.io/blog/2024/archunit.html) (3 months ago)
+- [Domain-Driven Design, Team Topologies and Cloud Architecture Fusion](https://jug-pb.gitlab.io/blog/2025/ddd.html) (3 days ago)
+- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (4 days ago)
 
 #### 👯 I’m looking to collaborate on
 
