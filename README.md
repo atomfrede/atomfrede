@@ -8,20 +8,20 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (6 days ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 week ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 week ago)
 - [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.9.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.9.0), 2 days ago) - JHipster BOM and server-side library
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.28.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.28.0), 2 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [casid/jte](https://github.com/casid/jte) ([3.1.16](https://github.com/casid/jte/releases/tag/3.1.16), 4 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/generator-jhipster-micronaut](https://github.com/jhipster/generator-jhipster-micronaut) ([v3.7.0](https://github.com/jhipster/generator-jhipster-micronaut/releases/tag/v3.7.0), 4 days ago) - Micronaut blueprint for JHipster
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.9.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.9.0), 1 week ago) - JHipster BOM and server-side library
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.28.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.28.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
 
 #### 🔨 Latest Pull Requests I published
 
 - [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (6 months ago) (MERGED)
-- [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (6 months ago) (OPEN)
+- [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (6 months ago) (CLOSED)
 - [migrate to gradle develocity maven extension](https://github.com/jhipster/jhipster-bom/pull/1587) on [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) (8 months ago) (MERGED)
 
 #### 📜 My recent blog posts
@@ -31,7 +31,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (4 days ago)
+- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (1 week ago)
 - [Domain-Driven Design, Team Topologies and Cloud Architecture Fusion](https://jug-pb.gitlab.io/blog/2025/ddd.html) (1 week ago)
 
 #### 👯 I’m looking to collaborate on
