@@ -14,8 +14,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.9.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.9.0), 2 weeks ago) - JHipster BOM and server-side library
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.28.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.28.0), 2 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.9.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.9.0), 3 weeks ago) - JHipster BOM and server-side library
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.28.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.28.0), 3 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [casid/jte](https://github.com/casid/jte) ([3.1.16](https://github.com/casid/jte/releases/tag/3.1.16), 1 month ago) - Secure and speedy templates for Java and Kotlin.
 
 #### 🔨 Latest Pull Requests I published
@@ -27,11 +27,11 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 📜 My recent blog posts
 
 - [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (3 years ago)
-- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (3 years ago)
+- [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (4 years ago)
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (2 weeks ago)
+- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (3 weeks ago)
 - [Domain-Driven Design, Team Topologies and Cloud Architecture Fusion](https://jug-pb.gitlab.io/blog/2025/ddd.html) (3 weeks ago)
 
 #### 👯 I’m looking to collaborate on
