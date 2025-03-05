@@ -8,8 +8,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 week ago)
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 weeks ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (2 weeks ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
 - [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -32,7 +32,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 📜 JUG Paderborn's recent blog posts
 
 - [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (3 weeks ago)
-- [Domain-Driven Design, Team Topologies and Cloud Architecture Fusion](https://jug-pb.gitlab.io/blog/2025/ddd.html) (3 weeks ago)
+- [Domain-Driven Design, Team Topologies and Cloud Architecture Fusion](https://jug-pb.gitlab.io/blog/2025/ddd.html) (1 month ago)
 
 #### 👯 I’m looking to collaborate on
 
