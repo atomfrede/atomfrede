@@ -8,14 +8,14 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (2 weeks ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (3 weeks ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
-- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (4 months ago)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.9.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.9.0), 3 weeks ago) - JHipster BOM and server-side library
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.28.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.28.0), 3 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.29.1](https://github.com/jhipster/jhipster-lite/releases/tag/v1.29.1), 2 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.9.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.9.0), 1 month ago) - JHipster BOM and server-side library
 - [casid/jte](https://github.com/casid/jte) ([3.1.16](https://github.com/casid/jte/releases/tag/3.1.16), 1 month ago) - Secure and speedy templates for Java and Kotlin.
 
 #### 🔨 Latest Pull Requests I published
@@ -31,7 +31,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (3 weeks ago)
+- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (1 month ago)
 - [Domain-Driven Design, Team Topologies and Cloud Architecture Fusion](https://jug-pb.gitlab.io/blog/2025/ddd.html) (1 month ago)
 
 #### 👯 I’m looking to collaborate on
