@@ -8,7 +8,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (3 weeks ago)
+- [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 month ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
 - [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (5 months ago)
 
@@ -22,7 +22,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (7 months ago) (MERGED)
 - [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (7 months ago) (CLOSED)
-- [migrate to gradle develocity maven extension](https://github.com/jhipster/jhipster-bom/pull/1587) on [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) (9 months ago) (MERGED)
+- [migrate to gradle develocity maven extension](https://github.com/jhipster/jhipster-bom/pull/1587) on [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) (10 months ago) (MERGED)
 
 #### 📜 My recent blog posts
 
