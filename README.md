@@ -8,13 +8,13 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
+- [atomfrede/jdconf-25-samples](https://github.com/atomfrede/jdconf-25-samples) - Samples for JDConf Sessions (2 days ago)
 - [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 month ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
-- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.29.1](https://github.com/jhipster/jhipster-lite/releases/tag/v1.29.1), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.30.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.30.0), 1 day ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.9.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.9.0), 1 month ago) - JHipster BOM and server-side library
 - [casid/jte](https://github.com/casid/jte) ([3.1.16](https://github.com/casid/jte/releases/tag/3.1.16), 2 months ago) - Secure and speedy templates for Java and Kotlin.
 
@@ -26,7 +26,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 My recent blog posts
 
-- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (3 years ago)
+- [Automated frontend perfomance test with lighthouse for JHipster](https://atomfrede.gitlab.io/2021/04/automated-frontend-perfomance-test-with-lighthouse-for-jhipster/) (4 years ago)
 - [Creating a JHipster Playwright Blueprint - Part 2](https://atomfrede.gitlab.io/2021/03/creating-a-jhipster-playwright-blueprint-part-2/) (4 years ago)
 
 #### 📜 JUG Paderborn's recent blog posts
