@@ -10,13 +10,13 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 - [atomfrede/jdconf-25-samples](https://github.com/atomfrede/jdconf-25-samples) - Samples for JDConf Sessions (1 week ago)
 - [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (1 month ago)
-- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (1 month ago)
+- [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [casid/jte](https://github.com/casid/jte) ([3.2.0](https://github.com/casid/jte/releases/tag/3.2.0), 4 days ago) - Secure and speedy templates for Java and Kotlin.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.30.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.30.0), 1 week ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.9.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.9.0), 1 month ago) - JHipster BOM and server-side library
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.31.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.31.0), 4 days ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.10.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.10.0), 4 days ago) - JHipster BOM and server-side library
+- [casid/jte](https://github.com/casid/jte) ([3.2.0](https://github.com/casid/jte/releases/tag/3.2.0), 1 week ago) - Secure and speedy templates for Java and Kotlin.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -32,7 +32,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 #### 📜 JUG Paderborn's recent blog posts
 
 - [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (1 month ago)
-- [Domain-Driven Design, Team Topologies and Cloud Architecture Fusion](https://jug-pb.gitlab.io/blog/2025/ddd.html) (1 month ago)
+- [Domain-Driven Design, Team Topologies and Cloud Architecture Fusion](https://jug-pb.gitlab.io/blog/2025/ddd.html) (2 months ago)
 
 #### 👯 I’m looking to collaborate on
 
