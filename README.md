@@ -8,15 +8,15 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/jdconf-25-samples](https://github.com/atomfrede/jdconf-25-samples) - Samples for JDConf Sessions (2 weeks ago)
+- [atomfrede/jdconf-25-samples](https://github.com/atomfrede/jdconf-25-samples) - Samples for JDConf Sessions (3 weeks ago)
 - [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (2 months ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.31.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.31.0), 3 weeks ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.10.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.10.0), 3 weeks ago) - JHipster BOM and server-side library
-- [casid/jte](https://github.com/casid/jte) ([3.2.0](https://github.com/casid/jte/releases/tag/3.2.0), 4 weeks ago) - Secure and speedy templates for Java and Kotlin.
+- [casid/jte](https://github.com/casid/jte) ([3.2.1](https://github.com/casid/jte/releases/tag/3.2.1), 6 days ago) - Secure and speedy templates for Java and Kotlin.
+- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.31.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.31.0), 1 month ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.10.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.10.0), 1 month ago) - JHipster BOM and server-side library
 
 #### 🔨 Latest Pull Requests I published
 
