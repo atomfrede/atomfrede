@@ -8,7 +8,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/jdconf-25-samples](https://github.com/atomfrede/jdconf-25-samples) - Samples for JDConf Sessions (1 month ago)
+- [atomfrede/jdconf-25-samples](https://github.com/atomfrede/jdconf-25-samples) - Samples for JDConf Sessions (3 days ago)
 - [jugpaderborn/.github](https://github.com/jugpaderborn/.github) -  (2 months ago)
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech (3 months ago)
 
