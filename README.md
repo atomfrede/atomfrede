@@ -8,15 +8,13 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (1 day ago)
-- [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (1 day ago)
-- [atomfrede/jdconf-25-samples](https://github.com/atomfrede/jdconf-25-samples) - Samples for JDConf Sessions (4 days ago)
+- [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (3 days ago)
+- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (3 days ago)
+- [atomfrede/jdconf-25-samples](https://github.com/atomfrede/jdconf-25-samples) - Samples for JDConf Sessions (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [casid/jte](https://github.com/casid/jte) ([3.2.1](https://github.com/casid/jte/releases/tag/3.2.1), 3 weeks ago) - Secure and speedy templates for Java and Kotlin.
-- [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) ([v1.31.0](https://github.com/jhipster/jhipster-lite/releases/tag/v1.31.0), 1 month ago) - JHipster Lite ⚡ is a development platform to generate, develop &amp; deploy modern web applications &amp; microservices architecture, step by step - using Hexagonal Architecture :gem:
-- [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) ([8.10.0](https://github.com/jhipster/jhipster-bom/releases/tag/8.10.0), 1 month ago) - JHipster BOM and server-side library
+- [casid/jte](https://github.com/casid/jte) ([3.2.1](https://github.com/casid/jte/releases/tag/3.2.1), 1 month ago) - Secure and speedy templates for Java and Kotlin.
 
 #### 🔨 Latest Pull Requests I published
 
