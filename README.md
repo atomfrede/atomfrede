@@ -8,9 +8,9 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (5 days ago)
-- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (5 days ago)
-- [atomfrede/asciidoc-reveal-template](https://github.com/atomfrede/asciidoc-reveal-template) - Template Repository for my asciidoc reveal.js setup (1 week ago)
+- [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (1 week ago)
+- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (1 week ago)
+- [atomfrede/asciidoc-reveal-template](https://github.com/atomfrede/asciidoc-reveal-template) - Template Repository for my asciidoc reveal.js setup (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -18,8 +18,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 🔨 Latest Pull Requests I published
 
-- [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (9 months ago) (MERGED)
-- [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (9 months ago) (CLOSED)
+- [correct typo in sponsor name](https://github.com/mapstruct/mapstruct.org/pull/148) on [mapstruct/mapstruct.org](https://github.com/mapstruct/mapstruct.org) (10 months ago) (MERGED)
+- [correct typo in sponsor name](https://github.com/atomfrede/mapstruct.org/pull/1) on [atomfrede/mapstruct.org](https://github.com/atomfrede/mapstruct.org) (10 months ago) (CLOSED)
 - [migrate to gradle develocity maven extension](https://github.com/jhipster/jhipster-bom/pull/1587) on [jhipster/jhipster-bom](https://github.com/jhipster/jhipster-bom) (1 year ago) (MERGED)
 
 #### 📜 My recent blog posts
@@ -29,8 +29,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Sketchnotes in der IT](https://jug-pb.gitlab.io/blog/2025/sketchnotes.html) (2 weeks ago)
-- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (3 months ago)
+- [Sketchnotes in der IT](https://jug-pb.gitlab.io/blog/2025/sketchnotes.html) (3 weeks ago)
+- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (4 months ago)
 
 #### 👯 I’m looking to collaborate on
 
