@@ -29,7 +29,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Sketchnotes in der IT](https://jug-pb.gitlab.io/blog/2025/sketchnotes.html) (3 weeks ago)
+- [Sketchnotes in der IT](https://jug-pb.gitlab.io/blog/2025/sketchnotes.html) (1 month ago)
 - [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (4 months ago)
 
 #### 👯 I’m looking to collaborate on
