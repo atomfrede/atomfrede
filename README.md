@@ -8,13 +8,13 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (2 weeks ago)
-- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (2 weeks ago)
-- [atomfrede/asciidoc-reveal-template](https://github.com/atomfrede/asciidoc-reveal-template) - Template Repository for my asciidoc reveal.js setup (3 weeks ago)
+- [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (3 weeks ago)
+- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (3 weeks ago)
+- [atomfrede/asciidoc-reveal-template](https://github.com/atomfrede/asciidoc-reveal-template) - Template Repository for my asciidoc reveal.js setup (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [casid/jte](https://github.com/casid/jte) ([3.2.1](https://github.com/casid/jte/releases/tag/3.2.1), 1 month ago) - Secure and speedy templates for Java and Kotlin.
+- [casid/jte](https://github.com/casid/jte) ([3.2.1](https://github.com/casid/jte/releases/tag/3.2.1), 2 months ago) - Secure and speedy templates for Java and Kotlin.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -29,8 +29,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Sketchnotes in der IT](https://jug-pb.gitlab.io/blog/2025/sketchnotes.html) (1 month ago)
-- [Der KI gestützte Softwareentwicklungsprozess](https://jug-pb.gitlab.io/blog/2025/ki-in-der-softwareentwicklung.html) (4 months ago)
+- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (4 days ago)
+- [Double Feature on modern Software Development](https://jug-pb.gitlab.io/blog/2025/modern-software-and-elixir.html) (5 days ago)
 
 #### 👯 I’m looking to collaborate on
 
