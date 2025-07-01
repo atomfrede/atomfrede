@@ -8,8 +8,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (3 weeks ago)
-- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (3 weeks ago)
+- [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (1 month ago)
+- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (1 month ago)
 - [atomfrede/asciidoc-reveal-template](https://github.com/atomfrede/asciidoc-reveal-template) - Template Repository for my asciidoc reveal.js setup (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -29,8 +29,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (4 days ago)
-- [Double Feature on modern Software Development](https://jug-pb.gitlab.io/blog/2025/modern-software-and-elixir.html) (5 days ago)
+- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (1 week ago)
+- [Double Feature on modern Software Development](https://jug-pb.gitlab.io/blog/2025/modern-software-and-elixir.html) (1 week ago)
 
 #### 👯 I’m looking to collaborate on
 
