@@ -29,8 +29,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (1 week ago)
-- [Double Feature on modern Software Development](https://jug-pb.gitlab.io/blog/2025/modern-software-and-elixir.html) (1 week ago)
+- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (2 weeks ago)
+- [Double Feature on modern Software Development](https://jug-pb.gitlab.io/blog/2025/modern-software-and-elixir.html) (2 weeks ago)
 
 #### 👯 I’m looking to collaborate on
 
