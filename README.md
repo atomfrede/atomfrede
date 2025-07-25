@@ -8,13 +8,13 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
+- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (3 days ago)
+- [atomfrede/htmx-jug-bielefeld-slides](https://github.com/atomfrede/htmx-jug-bielefeld-slides) -  (3 days ago)
 - [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (1 month ago)
-- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (1 month ago)
-- [atomfrede/asciidoc-reveal-template](https://github.com/atomfrede/asciidoc-reveal-template) - Template Repository for my asciidoc reveal.js setup (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [casid/jte](https://github.com/casid/jte) ([3.2.1](https://github.com/casid/jte/releases/tag/3.2.1), 2 months ago) - Secure and speedy templates for Java and Kotlin.
+- [casid/jte](https://github.com/casid/jte) ([3.2.1](https://github.com/casid/jte/releases/tag/3.2.1), 3 months ago) - Secure and speedy templates for Java and Kotlin.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -29,7 +29,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (4 weeks ago)
+- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (1 month ago)
 - [Double Feature on modern Software Development](https://jug-pb.gitlab.io/blog/2025/modern-software-and-elixir.html) (1 month ago)
 
 #### 👯 I’m looking to collaborate on
