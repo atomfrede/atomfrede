@@ -8,8 +8,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (1 week ago)
-- [atomfrede/htmx-jug-bielefeld-slides](https://github.com/atomfrede/htmx-jug-bielefeld-slides) -  (1 week ago)
+- [atomfrede/spring-io-25-samples](https://github.com/atomfrede/spring-io-25-samples) -  (2 weeks ago)
+- [atomfrede/htmx-jug-bielefeld-slides](https://github.com/atomfrede/htmx-jug-bielefeld-slides) -  (2 weeks ago)
 - [atomfrede/spring-io-25-htmx-slides](https://github.com/atomfrede/spring-io-25-htmx-slides) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
