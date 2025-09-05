@@ -29,7 +29,7 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [JDK LTS Release Feature Check](https://jug-pb.gitlab.io/blog/2025/jdk-lts.html) (4 days ago)
+- [JDK LTS Release Feature Check](https://jug-pb.gitlab.io/blog/2025/jdk-lts.html) (1 week ago)
 - [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (2 months ago)
 
 #### 👯 I’m looking to collaborate on
