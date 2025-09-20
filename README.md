@@ -8,8 +8,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/htmx-samples](https://github.com/atomfrede/htmx-samples) -  (2 days ago)
-- [atomfrede/htmx-jfn25-slides](https://github.com/atomfrede/htmx-jfn25-slides) -  (3 days ago)
+- [atomfrede/htmx-jfn25-slides](https://github.com/atomfrede/htmx-jfn25-slides) -  (4 days ago)
+- [atomfrede/htmx-samples](https://github.com/atomfrede/htmx-samples) -  (1 week ago)
 - [atomfrede/htmx-jug-bielefeld-slides](https://github.com/atomfrede/htmx-jug-bielefeld-slides) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -29,8 +29,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [JDK LTS Release Feature Check](https://jug-pb.gitlab.io/blog/2025/jdk-lts.html) (2 weeks ago)
-- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (2 months ago)
+- [JDK LTS Release Feature Check](https://jug-pb.gitlab.io/blog/2025/jdk-lts.html) (3 weeks ago)
+- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (3 months ago)
 
 #### 👯 I’m looking to collaborate on
 
