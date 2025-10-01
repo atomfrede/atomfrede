@@ -8,13 +8,13 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 👷 Check out what I'm currently working on
 
-- [atomfrede/htmx-jfn25-slides](https://github.com/atomfrede/htmx-jfn25-slides) -  (4 days ago)
-- [atomfrede/htmx-samples](https://github.com/atomfrede/htmx-samples) -  (1 week ago)
-- [atomfrede/htmx-jug-bielefeld-slides](https://github.com/atomfrede/htmx-jug-bielefeld-slides) -  (1 month ago)
+- [atomfrede/htmx-jfn25-slides](https://github.com/atomfrede/htmx-jfn25-slides) -  (2 weeks ago)
+- [atomfrede/htmx-samples](https://github.com/atomfrede/htmx-samples) -  (2 weeks ago)
+- [atomfrede/htmx-jug-bielefeld-slides](https://github.com/atomfrede/htmx-jug-bielefeld-slides) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [casid/jte](https://github.com/casid/jte) ([3.2.1](https://github.com/casid/jte/releases/tag/3.2.1), 4 months ago) - Secure and speedy templates for Java and Kotlin.
+- [casid/jte](https://github.com/casid/jte) ([3.2.1](https://github.com/casid/jte/releases/tag/3.2.1), 5 months ago) - Secure and speedy templates for Java and Kotlin.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -29,8 +29,8 @@ Together with [Thorben](https://github.com/thjanssen) I organize the meetings of
 
 #### 📜 JUG Paderborn's recent blog posts
 
-- [JDK LTS Release Feature Check](https://jug-pb.gitlab.io/blog/2025/jdk-lts.html) (3 weeks ago)
-- [Evolving Search at an ecommerce marketplace](https://jug-pb.gitlab.io/blog/2025/evolving-search.html) (3 months ago)
+- [Von 0 auf Spring AI](https://jug-pb.gitlab.io/blog/2025/spring-ai.html) (1 week ago)
+- [JDK LTS Release Feature Check](https://jug-pb.gitlab.io/blog/2025/jdk-lts.html) (1 month ago)
 
 #### 👯 I’m looking to collaborate on
 
